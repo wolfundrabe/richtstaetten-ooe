@@ -34,3 +34,15 @@ a.button:hover,.cta:hover{background:#7a0000}
 .swatch.blue{background:#0275d8}
 .swatch.green{background:#5cb85c}
 .swatch.black{background:#111}
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+              url('https://wolfundrabe.github.io/richtstaetten-ooe/bilder/hintergrund.jpg') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.6);
+}
