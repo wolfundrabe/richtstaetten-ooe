@@ -17,7 +17,7 @@ footer{text-align:center;font-size:.9rem;background:var(--dark);color:#fff;paddi
 a.button,.cta{display:inline-block;margin-top:1rem;padding:.8rem 1.2rem;background:var(--brand);color:#fff;text-decoration:none;font-weight:700;border-radius:10px;transition:background .25s}
 a.button:hover,.cta:hover{background:#7a0000}
 /* Start page */
-.hero{color:#fff;min-height:100vh;display:flex;justify-content:center;align-items:center;text-align:center;flex-direction:column;background:url('bilder/hintergrund.jpg') no-repeat center/cover fixed}
+.hero{color:#fff;min-height:100vh;display:flex;justify-content:center;align-items:center;text-align:center;flex-direction:column;background:url('https://wolfundrabe.github.io/richtstaetten-ooe/karte.html') no-repeat center/cover fixed}
 .hero .box{background:rgba(0,0,0,.55);padding:2rem 1.5rem;max-width:900px;border-radius:14px}
 .hero h1{margin:.2rem 0 0;font-size:2.2rem}
 .hero p{line-height:1.6;margin:1rem auto}
