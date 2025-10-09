@@ -14,7 +14,7 @@
 </head>
 <body>
   <header>
-    <h1>Karte</h1>
+    <h1>Karte – Richtstätten Oberösterreichs</h1>
     <nav>
       <a href="index.html">Start</a> •
       <a href="ueber.html">Über</a> •
@@ -60,7 +60,8 @@
     Object.values(clusters).forEach(c => c.addTo(map));
     L.control.layers(null, clusters, {collapsed:false}).addTo(map);
 
-    Papa.parse('daten/richtstaetten.csv', {
+    Papa.parse('https://raw.githubusercontent.com/wolfundrabe/richtstaetten-ooe/main/daten/richtstaetten.csv?v=' + Date.now(), {
+
       download: true,
       header: true,
       skipEmptyLines: true,
