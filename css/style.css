@@ -35,7 +35,7 @@ a.button:hover,.cta:hover{background:#7a0000}
 .swatch.green{background:#5cb85c}
 .swatch.black{background:#111}
 .hero {
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
               url('https://wolfundrabe.github.io/richtstaetten-ooe/bilder/hintergrund.jpg') no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
