@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galgenhügel in der Flez (Wels)</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <meta name="description" content="Richtstätte Galgenhügel in der Flez (Wels): Hinrichtungen 1852–1860, Wölflkreuzsäule, Gasthaus 'zur schönen Aussicht'.">
+  <style>
+    .subtle { color:#555; font-size:.95rem; }
+    .tag { display:inline-block; padding:.1rem .5rem; border-radius:999px; background:#eee; margin-right:.4rem; font-size:.85rem; }
+    .gallery { display:grid; gap:1rem; grid-template-columns:1fr; }
+    @media (min-width: 780px){
+      .gallery { grid-template-columns: repeat(3, 1fr); }
+    }
+    figure { margin:0; }
+    figcaption { font-size:.9rem; color:#555; margin-top:.35rem; }
+    .callout { background:#f3f3f3; border-left:4px solid #b40000; padding:.8rem 1rem; border-radius:8px; }
+    .chronik li { margin:.25rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Galgenhügel in der Flez (Wels)</h1>
+    <nav>
+      <a href="../index.html">Start</a> •
+      <a href="../karte.html">Karte</a> •
+      <a href="../ueber.html">Über</a>
+    </nav>
+  </header>
+
+  <main>
+    <p class="subtle">
+      <span class="tag">Richtstätten</span>
+      <span class="tag">Wels</span>
+      <span class="tag">19. Jahrhundert</span>
+    </p>
+
+    <p>
+      <strong>Der Galgenhügel in der Fletz</strong> (Kreuzung <em>Wallererstraße</em> / <em>Römerstraße</em>) gilt als der jüngste Richtplatz in Wels.
+      Ab wann diese Richtstätte zur Vollstreckung der Todesurteile benützt wurde, ist nicht bekannt.
+      Noch heute ist die Stätte durch die <strong>Wölflkreuzsäule</strong> gekennzeichnet und im Grundbuch als <em>Galgenhügelgrund</em> eingetragen.
+      In unmittelbarer Nähe befand sich das Gasthaus <em>„zur schönen Aussicht“</em> (6).
+    </p>
+
+    <div class="callout">
+      <p style="margin:0;">
+        <strong>Funktion der Richtstätte:</strong> Vollstreckungsort der städtischen Hochgerichtsbarkeit (Todesurteile).
+        Typisch außerhalb der Stadtmauern gelegen, dennoch weithin sichtbar an der Straße (Schädelstraße, sic!) nach Lambach.
+      </p>
+    </div>
+
+    <h3>Überlieferte Hinrichtungen (Auswahl)</h3>
+    <ul class="chronik">
+      <li><strong>1852</strong> – Zwei Husaren werden zum Tod durch den Strang verurteilt und nahe dem Gasthaus „zur schönen Aussicht“ hingerichtet. (6)</li>
+      <li><strong>14. Mai 1853</strong> – Die Husaren <em>Stefan Haiduk</em> und <em>Gabriel Wojtek</em> werden zum Galgen geführt.</li>
+      <li><strong>18. März 1858</strong> – <em>Neue Salzburger Zeitung</em>: Hinrichtung des <em>Johann Schönleitner</em>.</li>
+      <li><strong>2. Aug. 1860</strong> – <em>Presse</em>: Hinrichtung des <em>Sebastian A.</em>; eine der letzten öffentlichen Hinrichtungen in Oberösterreich.</li>
+    </ul>
+
+    <h3>Bilder &amp; Darstellungen</h3>
+    <div class="gallery">
+      <figure>
+        <img class="responsive" src="../bilder/1853_Husaren.png" alt="1853 – Husaren am Richtplatz in der Flez">
+        <figcaption>1853 – Die zum Galgen geführten Husaren Stefan Haiduk und Gabriel Wojtek.</figcaption>
+      </figure>
+      <figure>
+        <img class="responsive" src="../bilder/1858_Schönleitner.jpg" alt="1858 – Hinrichtung des Johann Schönleitner">
+        <figcaption>1858 – Presseberichte zur Hinrichtung des Johann Schönleitner.</figcaption>
+      </figure>
+      <figure>
+        <img class="responsive" src="../bilder/1860_Sebastian.png" alt="1860 – Hinrichtung des Sebastian A.">
+        <figcaption>1860 – Eine der letzten öffentlichen Hinrichtungen in Oberösterreich (Sebastian A.).</figcaption>
+      </figure>
+    </div>
+
+    <h3>Hinweise &amp; Quellen</h3>
+    <ul>
+      <li>Topographie: Kreuzung Wallerer-/Römerstraße; Wölflkreuzsäule markiert den Ort.</li>
+      <li>Grundbuch: Eintrag <em>Galgenhügelgrund</em> (örtliche Überlieferung).</li>
+      <li>Presseberichte und zeitgenössische Notizen, u. a. (6).</li>
+      <li>Kürzel: <strong>FK</strong> (Franziszeischer Kataster), <strong>FL</strong> (Franziszeische Landesaufnahme), <strong>JL</strong> (Josephinische Landesaufnahme), <strong>LH</strong> (Lambacher Hausmappe) – vgl. README „Quellenkürzel“.</li>
+    </ul>
+
+    <p><a class="cta" href="../karte.html">← Zurück zur Karte</a></p>
+  </main>
+
+  <footer>© Richtstätten Oberösterreichs</footer>
+</body>
+</html>
