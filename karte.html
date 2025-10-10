@@ -79,6 +79,18 @@
 
           const marker = L.marker([lat, lng], { icon: iconFor(kat) }).bindPopup(popup);
           clusters[kat].addLayer(marker);
+          // Nach dem Einfügen aller Marker: auf alle Punkte zoomen
+const allBounds = L.latLngBounds();
+Object.values(clusters).forEach(cluster => {
+  cluster.eachLayer(marker => {
+    if (marker.getLatLng) allBounds.extend(marker.getLatLng());
+  });
+});
+
+if (allBounds.isValid()) {
+  map.fitBounds(allBounds, { padding: [40, 40] });
+}
+
         });
       }
     });
