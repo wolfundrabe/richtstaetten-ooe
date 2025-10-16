@@ -110,7 +110,7 @@ Schedlbergerhaus,Galgenhäuser,48.40465,14.296142,Wildberg 15,https://doris.ooe.
 Galgen,Richtstätten,47.99734,12.87866,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1431399.2728880893%2C6104952.124164952%2C1435760.9608146122%2C6106669.568644235&map-list=1&layers=163%2C165
 Galgen Weinberg,Richtstätten,48.46515,14.5,"Landgericht Weinberg, 1638 belegt, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1612699.4487627535%2C6183532.564882186%2C1617061.1366892764%2C6185250.009361469&map-list=1&layers=163%2C165
 Galgenau,Flurnamen,48.46874,14.49939,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1612699.4487627535%2C6183532.564882186%2C1617061.1366892764%2C6185250.009361469&map-list=1&layers=163%2C165
-Galgenbach,Flurnamen,48.466931,14.4967,,
+Galgenbach,Flurnamen,48.466931,14.4967,OSM,https://www.openstreetmap.org/#map=17/48.462998/14.502795
 Ganglsiedlung,Flurnamen,48.46563,14.50115,,
 Galgen,Richtstätten,48.3062,14.350504,"in der Nähe des Stettenhofes, LG Riedmark-Steyregg",
 Galgen Atzbach,Richtstätten,48.0807,13.69798,noch nicht lokalisiert,
@@ -118,3 +118,8 @@ Galgen Frankenburg,Richtstätten,48.08073,13.49366,noch nicht genau lokalisiert,
 Wasenmeisterei,Abdecker,48.07808,13.497541,Abdeckerhaus Frankenburg am Hausruck,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=3929
 Scheibe,Flurnamen,48.46751,13.819978," Der Flurname weist hier ziemlich sicher auf die nahe Richtstätte hin auf der „gerädert“ wurde, „Radscheiben“.",
 Wasenmeister,Abdecker,48.469944,13.819502,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52761
+Wasenmeister,Abdecker,48.45944,14.52178,"Wasenmeisterhäusl, altes",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67739
+Abdecker,Abdecker,48.46597,14.52529,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67873
+Galgenbuche,Richtstätten,48.13254,13.62263,,
+Scheiben,Flurnamen,48.1384,13.63145,"Bahnhof Scheiben, Hinweis auf die nahe Galgenbuche?",
+Wolfen- oder Wasengütl,Abdecker,48.123337,13.646379,"Wolfen- oder Wasengütl, der Wolf war der Haken am Galgen",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8850
