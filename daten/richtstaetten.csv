@@ -158,7 +158,7 @@ Köpfstätte Lengau,Richtstätten,48.006947,13.24406,"Köpfstadl, Köpfstadlpoin
 Kopfstättsäule Astätt,Richtstätten,48.008448,13.158557,"letzte erhaltene Köpfstattsäule Österreichs, letzte Hinrichtung 1762",http://www.gaudeamus-tanz.at/koepfstaette-in-astaett/
 Wasenmeister,Abdecker,47.999714,13.21632,Wasenstatt am Mitterberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=37938
 Galgenhölzl,Richtstätten,48.01764,13.21866,"Galgenhülzl FK, FL",https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1469685.8592243171%2C6108812.770812798%2C1474047.54715084%2C6110530.215292081&map-list=1&layers=6
-Richtstätte,Richtstätten,48.27347,14.31395,"ab 1820, zu den 2 Kreuzen an der Gabelung der Reichsstraße",
+Richtstätte,Richtstätten,48.27347,14.31395,"ab 1820, zu den 2 Kreuzen an der Gabelung der Reichsstraße, zwischen B1 und Brunnenfeld",https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&query=%22Galgenplatz%22&ref=anno-search&seite=29
 Richtstätte am Galgenbichl,Richtstätten,48.34991,14.57634,"Richtstätte von Reichenstein, Ziegelreste? Halmenberg.",https://www.zobodat.at/pdf/JOM_141a_0229-0257.pdf
 Richtstätte Gugalea,Richtstätten,48.3631,14.419377,"1272 - 1756 Richtstätte Markt Gallneukirchen, Steinsäule Penkenberg",https://www.meinbezirk.at/urfahr-umgebung/c-lokales/penkenberg-marterl-wieder-am-urspruenglichen-ort_a1600211
 Ramesberger,Galgenhäuser,48.364,14.41221,Krähen-/Rabenberg = Synonym für Richtstätte,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64595
@@ -288,3 +288,9 @@ Gallnbrunn,Flurnamen,47.97892,13.51863,Gallabrunn,
 Hangern,Flurnamen,48.60448,13.819,"Hanging, JL, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1534354.0951156863%2C6205652.0839706985%2C1542293.9914288088%2C6210376.847781575&map-list=1&layers=163%2C165
 Galgenberg,Flurnamen,48.62489,14.03329,Dieser Ort hat dem Pfleggericht Lichtenau als Richtstätte gedient (Tafel vor Ort),"https://www.komoot.com/de-de/plan/tour/d09AuXeYgDWGSc=FveABNMhk8gA/@48.6245498,14.0338068,17.134z?waypoint=hl:3699767"
 Marterl,Kleindenkmäler,48.6249,14.03308,Ein steinernes Marterl mit der Jahreszahl 1668,"https://www.komoot.com/de-de/plan/tour/d09AuXeYgDWGSc=FveABNMhk8gA/@48.6245498,14.0338068,17.134z?waypoint=hl:3699767"
+Richtstätte Linz,Richtstätten,48.305921,14.2866,Richtstätte und Pranger am Linzer Hauptplatz,
+Galgenplatz Heiljam,Richtstätten,48.3239,14.29671,heute erinnert noch eine Wegsäule an diese alte Richtstätte,https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&seite=28&zoom=33&query=%22Galgenplatz%22&ref=anno-search
+Geißelsäule Heilham,Kleindenkmäler,48.32396,14.296821,diese Wegsäule aus dem Jahre 1660 erinnert an eine alte Richtstätte,https://stadtgeschichte.linz.at/denkmal/default.asp?action=denkmaldetail&id=1125
+Wolfenkreuz,Flurnamen,48.32396,14.2901,FL,https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1588437.013194758%2C6160457.333942323%2C1596412.7393648895%2C6162819.715847761&map-list=1&layers=6
+Wolfenkreuz,Kleindenkmäler,48.143805,13.62665,eigentlich ein Marien-Bildstöckl,https://www.ooegeschichte.at/media/migrated/bibliografiedb/hbl1973_1_2_57-80.pdf
+Galgen am Freinberg,Richtstätten,48.30378,14.26456,"Galgenberg, Galgenleithen samt Henkerleiten",https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&seite=28&zoom=33&query=%22Galgenplatz%22&ref=anno-search
