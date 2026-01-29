@@ -44,7 +44,7 @@ Galgen,Richtstätten,47.92104,14.10573,JL – Josephinische Landesaufnahme (177
 Abdecker,Abdecker,47.92148,14.10318,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569229.967734147%2C6092749.2023560135%2C1573591.65566067%2C6094466.646835296&map-list=1&layers=163%2C165
 Marterl,Kleindenkmäler,47.92104,14.104143,Marterl Galgenau,
 Schedelberg,Flurnamen,47.93652,14.10349,FL – Franziszeische Landesaufnahme (1809–1818),https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1568069.0803670692%2C6095609.6192738805%2C1572430.7682935921%2C6097327.063753163&map-list=1&layers=6
-Galgen Vöcklabruck,Richtstätten,48.014391,13.66118,Die Blutgerichtsbarkeit wurde Vöcklabruck 1392 durch Herzog Albrecht III. förmlich verliehen,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1519167.3374074239%2C6107863.70721934%2C1523529.0253339468%2C6109581.151698623&map-list=1&layers=163%2C165
+Galgen Vöcklabruck,Richtstätten,48.014391,13.66118,"Die Blutgerichtsbarkeit wurde Vöcklabruck 1392 durch Herzog Albrecht III. förmlich verliehen, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1519167.3374074239%2C6107863.70721934%2C1523529.0253339468%2C6109581.151698623&map-list=1&layers=163%2C165
 Galgen Rannariedl,Richtstätten,48.49091,13.75848,"Hochgericht des Landgerichts Rannariedl, eine Säule gut erhalten.",https://www.lefnaer.com/recht/galgen_Galgen%20Rannariedl.html
 Arme-Sünder-Kapelle,Kleindenkmäler,48.49131,13.75994,"Fünf Gehminuten vom Galgen, gut erhalten",https://www.lefnaer.com/recht/galgen_Galgen%20Rannariedl.html
 Wasenmeister,Abdecker,48.49216,13.75988,Dienerhaus mit Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52296
@@ -169,7 +169,7 @@ Richtstätte Niederneukirchen,Richtstätten,48.16043,14.339491,"Schranne / Richt
 Richtstätte Prandegg-Zellhof,Richtstätten,48.344583,14.707659,Die Richtstätte LG Prandegg (später LG Zellhof) mit Sitz in Zellhof befand sich in der Nähe des Geroldslehnergutes,
 Richtstätte St. Marien,Richtstätten,48.14638,14.27907,"Schranne, die Hinrichtungen fanden draußen im Samareiner Holz statt, dort wo ein Kreuz steht",
 Galgenmoos,Flurnamen,48.356365,13.718362,,
-Galgenberg Wimsbach,Richtstätten,48.05734,13.905665,,
+Galgenberg Wimsbach,Richtstätten,48.05734,13.905665,"das Landgericht Wimsbachhatte die Blutgerichtsbarkeit inne, wovon der Galgenberg Zeugnis ablegt.",https://www.ooegeschichte.at/forschung/kleindenkmal/111373
 Abdecker,Abdecker,48.05549,13.91005,Abdeckerhaus in der Au,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=82855
 Hangern,Flurnamen,48.60448,13.819,"Hangern, Hanging",
 Gallaberg,Flurnamen,47.9893,13.60661,Galgenberg (Gallaberg) scheint erstmals in einer Urkunde auf,https://www.lenzing.ooe.gv.at/Leben_in_Lenzing/Gemeinde_Info/Gemeinde/Chronologie?utm_source=chatgpt.com
@@ -314,4 +314,8 @@ Arme-Seelen-Taferl,Kleindenkmäler,47.872124,13.33267,"Erinnert an die Hinrichtu
 Richtstätte Mondsee,Richtstätten,47.855808,13.35,Am 18. 12. 1662 wurde am Marktplatz Mondsee die Richtstätte errichtet. 11 Bauern wurden verurteilt – 2 wurden geköpft (Handlbauer und ein weiterer Bauer der Region),https://www.salzkammergut.at/oesterreich-poi/detail/430022048/arme-seelen-taferl.html
 Galgenhof Landgericht Linz,Richtstätten,48.30549,14.29215,"Eine besondere Bedeutung erlangte der „Galgenhof“ des Landgerichts in der Zeit von 1934–38, Ständestaatregime.",https://afo.at/medien/publikationen/nachsatz-9/nachsatz-9eteil2.pdf
 Pranger Perg,Pranger,48.25,14.6342,"1583 errichtet, Pagstein und Halseisen befinden sich im Heimathaus-Stadtmuseum Perg",https://www.ooegeschichte.at/forschung/kleindenkmal/265346
-Pranger Hellmonsödt,Pranger,48.43170519,14.29975078,"Als Zeichen des Rechts wurde am Pranger die Freihand, auch Freyung genannt, ausgesteckt. (heute im Gemeindeamt aufbewahrt). ",
+Pranger Hellmonsödt,Pranger,48.43170519,14.29975078,"Als Zeichen des Rechts wurde am Pranger die Freihand, auch Freyung genannt, ausgesteckt. (heute im Gemeindeamt aufbewahrt). ",https://www.ooegeschichte.at/forschung/kleindenkmal/110916
+Bildstock am Galgenberg,Kleindenkmäler,48.05893309,13.90586479,ein aus zwei Säulenteilen zusammengesetzter Bildstock,https://www.ooegeschichte.at/forschung/kleindenkmal/111373
+Gerichtslinden Waxenberg,Flurnamen,48.47695895,14.1906354,"wahrscheinlich um das Jahr 1650 gepflanzt, als das Land- und Blutgericht Waxenberg in d das Schloss verlegt wurde",https://www.ooegeschichte.at/forschung/kleindenkmal/265199
+Hinrichtungsstätte auf der Ochsenwoad / Kröpflsberg,Richtstätten,48.474785,14.2017746,"der legende nach wurde hier am 10.7.1746 Elisabeth Höfflerin, würthin und Pökhin zu Waldkirchen, durch das Schwert hingerichtet",https://www.ooegeschichte.at/forschung/kleindenkmal/265231
+Gerichtsberg-Kapelle,Kleindenkmäler,48.01698466,13.66274893,"zwischen 1850 - 1885 errichtet, in der Nähe des Gerichtsplatzes, sonst kein direkter Zusammenhang",https://www.ooegeschichte.at/forschung/kleindenkmal/282915
