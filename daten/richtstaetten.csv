@@ -1,385 +1,377 @@
 ﻿name,kategorie,lat,lng,beschreibung,link
-Hochgericht der Stadt Wels,Richtstätten,48.157892,13.99153,"Dreischläfriger Galgen, LH, zahlreiche Skelettfunde",orte/wels-hochgericht.html
-Auerspergisches Blutgerüst,Richtstätten,48.18309,14.066862,"unter Christoph Weiß errichtetes Hochgericht, JL,",orte/auerspergwels.html
-Todengraberhäusl,Galgenhäuser,48.1848,14.08349,"Nähe Auerspergisches Blutgerüst, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=27161
-Schindergraben,Flurnamen,48.1871,14.06051,WZ 1931-05-29 Seite 17,https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19310529&seite=17&zoom=33&query=%22Schindergraben%22&ref=anno-search
-Wölflkreuzsäule,Kleindenkmäler,48.17293,14.01892,"Errichtung unbekannt, nach Beschädigung durch LKW an den Straßenrand versetzt",
-Galgen in der Flez,Richtstätten,48.17285,14.01854,"zahlreiche Hinrichtungen im 19. Jhdt., daneben ehem. Gasthaus 'zur schönen Aussicht'",orte/flez.html
-Galgenhügel,Flurnamen,48.15042,13.9805,ein Galgenstandort aus viel früherer Zeit,https://www.roemerweg.at/wp-content/uploads/2025/11/Galgenhuegel_2025.pdf
-Wasenmeisterhaus,Abdecker,48.2007,14.10826,"FK, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=27473
-Schandkreuz,Pranger,48.1566,14.0285,Auf dem Stich von Merian aus dem Jahre 1640 (bzw. Vischer 1674) rechts neben der kaiserlichen Burg zu sehen.<br><img src='bilder/Schandkreuz.jpg' alt='Schandkreuz Wels' style='width:260px;border-radius:8px;margin-top:6px;'>,
-Richtberg,Flurnamen,48.18264,13.96309,mündlich überliefert,
-Eggerkapelle,Kleindenkmäler,48.183437,13.96823,"Armesünderkapelle vom nahen Richtberg, Funktion nicht belegt.",
-Abdeckerhaus in Dopplgraben,Abdecker,48.19539,13.9897,"Abdecker- oder Wasenmeisterhaus, heute Reitstall",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=24291
-Schedlstraße,Flurnamen,48.15737,13.98806,"oder alte Lambacher Straße, heute Römerstraße",orte/schedlstrasse.html
-Fronfeste Wels,Richtstätten,48.15597,14.0253,Johann Hofreiter wird am 9.7.1886 im hinteren Hof der Welser Fronfeste gehängt.Dies war die letzte Hinrichtung in Wels ,
-Kreisgericht Wels,Richtstätten,48.156999,14.019104,"Eröffnung im November 1900, k.k. Justizpalast (!)",orte/kreisgerichtwels.html
-Galgenhäusel,Galgenhäuser,48.15894,14.00149,Galgenhaus in Wagrain oder Häusl beim Siechhof,
-Galgenhaus,Galgenhäuser,48.156069,13.99041,"Galgenhaus, FL, ca. 1965 geschleift. Letzter Besitzer: ""der alte Hutterer""",
-Richtstätte,Richtstätten,48.15648,14.02445,in der Welser Pancharte erwähnt,orte/rathauswels.html
-Richtstätte und Abdecker,Richtstätten,48.34665,14.420061,"ab 1756 (vorher Gugalea), Wasenmeisterhäusl im untern Gries",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64849
-Galgen,Richtstätten,47.96036,14.01686,"auf der freien Heide zu Pettenbach, genauer Standort noch unbekannt",
-Galgen Enns,Richtstätten,48.22486,14.48168,"Stadtgericht Enns, 1781 erwähnt",
-Scheiben,Flurnamen,48.21958,14.47811," „Scheiben“ könnte auf einen Ort hinweisen, an dem „gerädert“ wurde, also der Ort der „Radscheiben“.",
-Galgen,Richtstätten,48.23132,14.875255,Verschiedene historische Quellenangaben bezeugen den Ort dieser Richtstätte östlich von Grein.,https://www.ooegeschichte.at/forschung/kleindenkmal/110637
-Galgenkreuz (Richtkreuz),Kleindenkmäler,48.23106,14.874974,Inschrift: ehem. Richtstätte,https://www.ooegeschichte.at/forschung/kleindenkmal/110637
-Galgen,Richtstätten,47.90872,13.77741,"hier befand sich bis ca. 1790 das Hochgericht (Gmundner Wochenblatt 6.2.1866, Seite 6)",https://anno.onb.ac.at/cgi-content/anno?aid=gmw&datum=18660206&query=%22Tastelberg%22+%22Galgen%22&ref=anno-search&seite=6
-Galgen,Richtstätten,48.24353,14.5116,Die Hochgerichtsbarkeit in Mauthausen wurde 1446 durch ein Privileg Ks. Fridrich III bestätigt. Siehe auch Link Seite 10-11,https://www.yumpu.com/de/document/read/7491578/1294-mb-mauthausen
-Galgen,Richtstätten,48.25679,13.06835,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1453275.3298581934%2C6148640.496814556%2C1457637.0177847163%2C6150357.941293839&map-list=1&layers=163%2C165
-Galgen,Richtstätten,47.86492,13.33855,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1483065.5321667448%2C6083069.851001294%2C1487427.2200932677%2C6084787.295480577&map-list=1&layers=163%2C165
+Abdecker hinterm Hundskogel,Abdecker,47.69998,13.614274,,
+Abdeckerhaus im Sand,Abdecker,47.72141,14.316303,Wasenmeister am Sand nächst Windischgarsten,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=94638
+Schedlbauer,Galgenhaus,47.84115825,14.15992149,,
 Galgen,Richtstätten,47.8458,13.28376,"Überlieferung, dass die Herren von Wartenfels im 15./16. Jh. die Verurteilten hier hinrichten ließen. Weithin sichtbar stand damals in der heutigen Maiberger Wiese der Galgen.",https://www.snooop.net/entdecken/gastberger-wetterkreuz/703098
-Galgen,Richtstätten,48.6319,15.05372,Fundament eines dreischläfrigen Galgens erhalten<br><img src='bilder/galgenbergnoe.png' alt='Galgenberg zwischen Jagenbach und Rieggers'style='width:260px;border-radius:8px;margin-top:6px;'>,
-Galgen,Richtstätten,48.59837,15.180291,letzte öffentliche Hinrichtung in Zwettl im Jahre 1836,https://zcrux.zwalk.at/galgenkreuz-48-599274-15-180745/
+Richtstätte Mondsee,Richtstätten,47.855808,13.35,Am 18. 12. 1662 wurde am Marktplatz Mondsee die Richtstätte errichtet. 11 Bauern wurden verurteilt – 2 wurden geköpft (Handlbauer und ein weiterer Bauer der Region),https://www.salzkammergut.at/oesterreich-poi/detail/430022048/arme-seelen-taferl.html
+Galgen,Richtstätten,47.86492,13.33855,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1483065.5321667448%2C6083069.851001294%2C1487427.2200932677%2C6084787.295480577&map-list=1&layers=163%2C165
+Arme-Seelen-Taferl,Kleindenkmäler,47.872124,13.33267,"Erinnert an die Hinrichtung des damaligen Eigentümers des Handlbauerngutes, er wurde am 18. 12. 1662 am Marktplatz in Mondsee geköpft",https://www.ortedesglaubens.at/mondsee/orte-des-glaubens/oesterreich-poi/detail/430022048/arme-seelen-taferl.html
+Abdecker Tissenbach,Abdecker,47.89025,13.968481,,
+Wasenmeister Molln,Abdecker,47.89362,14.28244,Wasenmeisterhäusel in Rabach,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=93495
+Schinderviertel,Flurnamen,47.89373,14.28148,,
+Kronberg,Flurnamen,47.90048,13.48753,,
+Gallenleiten,Flurnamen,47.90632,13.47173,,
+Kronstein,Flurnamen,47.90749,14.45591,"Krähen-/Rabenstein = Synonym für Richtstätte, Kronstein dürfte aus Kraan- oder Rabenstein („Krähenstein“) entstanden sein – ein Name, der häufig Richtstätten bezeichnet, da sich dort Raben und Krähen sammelten.",
+Galgen,Richtstätten,47.90872,13.77741,"hier befand sich bis ca. 1790 das Hochgericht (Gmundner Wochenblatt 6.2.1866, Seite 6)",https://anno.onb.ac.at/cgi-content/anno?aid=gmw&datum=18660206&query=%22Tastelberg%22+%22Galgen%22&ref=anno-search&seite=6
+Hochgericht Scharnstein,Richtstätten,47.91544,13.963755,"Herrschaft Scharnstein, auf der freien Heide in Viechtwang innerhalb Mühldorf",
+Hochgerichtsberg,Richtstätten,47.91544,14.45414,"auch Gerichtskogel oder Hackerschädl beim Hangenden Stein genannt, Herrschaft Losenstein",https://www.burglosenstein.at/index.php/herrschaft-losenstein.html
+Hackerschädl,Flurnamen,47.917275,14.454013,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Galgen,Richtstätten,47.92104,14.10573,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569229.967734147%2C6092749.2023560135%2C1573591.65566067%2C6094466.646835296&map-list=1&layers=163%2C165
+Marterl,Kleindenkmäler,47.92104,14.104143,Marterl Galgenau,
+Galgen Tastelberg,Richtstätten,47.921328,13.81532,am Stich von Merian 1649 ganz rechts in der Bildmitte der dreischläfrige Galgen,https://de.wikipedia.org/wiki/Wunderburg_(Gmunden)#/media/Datei:Gmunden_Traunsee-neu.jpg
+Abdecker,Abdecker,47.92148,14.10318,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569229.967734147%2C6092749.2023560135%2C1573591.65566067%2C6094466.646835296&map-list=1&layers=163%2C165
+Hochgericht Gmunden,Richtstätten,47.92537,13.79709,1465 erhielt Gmunden das bis dahin zum Landgericht Ort gehörige hohe Stadtgericht. Auch auf dem Stich von Merian (1656) gut zu sehen.,https://www.arcanum.com/hu/online-kiadvanyok/OsterreichischerStadtatlas-osterreichischer-stadteatlas-1/gmunden-1104/wachstumsphasenkarte-mit-legende-11F3/
+Ansprachgatter Kammer-Schörfling,Kleindenkmäler,47.93403,13.60501,"Vor der Hinrichtung durfte der Delinquent der Bevölkerung eine ""Ansprach"" machen",https://www.geocaching.com/geocache/GC7JPZM
+Schedlgut,Galgenhaus,47.93467805,14.16557011,,
+Wasenmeister St. Georgen,Abdecker,47.935452,13.45886,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=2436
 Galgen Kammer-Schörfling,Richtstätten,47.936,13.60357,"letzte Hinrichtung 1837, Landgericht Kammer",https://www.geocaching.com/geocache/GC7JPZM
 Abdecker,Abdecker,47.9365,13.60806,Wasenmeisterhaus in der Schönn,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=7103
-Ansprachgatter Kammer-Schörfling,Kleindenkmäler,47.93403,13.60501,"Vor der Hinrichtung durfte der Delinquent der Bevölkerung eine ""Ansprach"" machen",https://www.geocaching.com/geocache/GC7JPZM
-Frauenköpfstelle Salletwald,Richtstätten,48.35177,13.71792,Bis 1779 wurden die Verurteilten auf einem der drei Galgen im Salletwald gehängt und Frauen an der Frauenköpfstelle enthauptet,"https://www.nachrichten.at/oberoesterreich/innviertel/schaerding/Als-Maenner-noch-gehaengt-und-Frauen-gekoepft-wurden;art14856,287582"
-Hochgericht Salletwald,Richtstätten,48.35144,13.71979,Bis 1779 wurden die Verurteilten auf einem der drei Galgen im Salletwald gehängt und Frauen an der Frauenköpfstelle enthauptet,"https://www.nachrichten.at/oberoesterreich/innviertel/schaerding/Als-Maenner-noch-gehaengt-und-Frauen-gekoepft-wurden;art14856,287582"
-Galgen,Richtstätten,48.062891,13.78611,"fiel im Jahre 1556 vermorscht zusammen, wieder aufgebaut (JL)",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1533437.3824352073%2C6116151.5802559005%2C1537799.0703617302%2C6117869.024735183&map-list=1&layers=163%2C165
-Galgen,Richtstätten,47.99939,13.591023,an der Reichsstraße,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1511312.450665069%2C6105658.634222169%2C1515674.138591592%2C6107376.078701452&map-list=1&layers=163%2C165
-Galgen,Richtstätten,48.005364,13.55891,an der Reichsstraße,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1507932.5008205827%2C6106222.357305774%2C1512294.1887471057%2C6107939.801785057&map-list=1&layers=163%2C165
-Galgen Tollet,Richtstätten,48.24817,13.79384,"In der Nähe befindet sich das Marterl, das an die letzte Hinrichtung 1739 erinnern soll",https://www.ooegeschichte.at/ausstellungen/glaube-aberglaube-gelehrtenmagie/geister-und-gespenster/tolleter-schlossgeist
-Wasenmeisterhaus,Abdecker,48.24965,13.79975,Grundherrschaft: Tollet Amt Kastlinged,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=16966
-Galgen,Richtstätten,47.92104,14.10573,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569229.967734147%2C6092749.2023560135%2C1573591.65566067%2C6094466.646835296&map-list=1&layers=163%2C165
-Abdecker,Abdecker,47.92148,14.10318,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569229.967734147%2C6092749.2023560135%2C1573591.65566067%2C6094466.646835296&map-list=1&layers=163%2C165
-Marterl,Kleindenkmäler,47.92104,14.104143,Marterl Galgenau,
 Schedelberg,Flurnamen,47.93652,14.10349,FL – Franziszeische Landesaufnahme (1809–1818),https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1568069.0803670692%2C6095609.6192738805%2C1572430.7682935921%2C6097327.063753163&map-list=1&layers=6
-Galgen Vöcklabruck,Richtstätten,48.014391,13.66118,"Die Blutgerichtsbarkeit wurde Vöcklabruck 1392 durch Herzog Albrecht III. förmlich verliehen, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1519167.3374074239%2C6107863.70721934%2C1523529.0253339468%2C6109581.151698623&map-list=1&layers=163%2C165
-Galgen Rannariedl,Richtstätten,48.49091,13.75848,"Hochgericht des Landgerichts Rannariedl, eine Säule gut erhalten.",https://www.lefnaer.com/recht/galgen_Galgen%20Rannariedl.html
-Arme-Sünder-Kapelle,Kleindenkmäler,48.49131,13.75994,"Fünf Gehminuten vom Galgen, gut erhalten",https://www.lefnaer.com/recht/galgen_Galgen%20Rannariedl.html
-Wasenmeister,Abdecker,48.49216,13.75988,Dienerhaus mit Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52296
-Galgen Aigen-Schlägel,Richtstätten,48.64106,13.9796,"nebenbei fließt der Galgenbach, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1552724.4806603584%2C6212506.597134865%2C1561447.8565134043%2C6215941.486093431&map-list=1&layers=163%2C165
-Scheibenfeld,Flurnamen,48.64412,13.98623," Der Flurname weist hier ziemlich sicher auf die nahe Richtstätte hin auf der „gerädert“ wurde, „Radscheiben“.",
-Galgen Weitersfelden,Richtstätten,48.47133,14.706111,"Landgericht Harrachstal, gut erhalten, 1570 erbaut",https://www.muehlviertel.at/oesterreich-poi/detail/430027418/galgenbuehel.html
-Galgen Waldhausen,Richtstätten,48.2709,14.9501,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1662068.2409470766%2C6151370.174849183%2C1666429.9288735995%2C6153087.619328466&map-list=1&layers=163%2C165
-Galgenberg,Flurnamen,48.27087,14.94194,Quelle?,
-Galgenberger,Galgenhäuser,48.2663,14.9509,genaue Lage unbekannt,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1660073.7122402594%2C6149940.563554536%2C1668797.0880933052%2C6153375.4525131015&map-list=1&layers=163%2C165
-Galgen,Richtstätten,48.585587,14.55269,"zwischen Windhaag bei Freistadt und Pieberschlag, Galgenberg (JL)",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1619075.4997948513%2C6203773.190582378%2C1623437.1877213742%2C6205490.635061661&map-list=1&layers=163%2C165
-Galgenberg,Flurnamen,48.58517,14.55512,"zwischen Windhaag bei Freistadt und Pieberschlag, Galgenberg (JL)",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1619075.4997948513%2C6203773.190582378%2C1623437.1877213742%2C6205490.635061661&map-list=1&layers=163%2C165
-Galgen Bad Zell,Richtstätten,48.35424,14.6812,"Markt Zell hatte nicht nur die Niedere Gerichtsbarkeit inne, sondern auch den Blutbann",
-Galgenbichl,Flurnamen,48.35283,14.67585,bereits 1391 in einem Regensburger Lehenskodex genannt (FK),
-Steininger beim Galgenbichl,Galgenhäuser,48.35419,14.68481,"Der Steiniger musste Leiter und Holz zum Galgen bereitstellen, dafür wird ihm das Grundstück beim Galgen als Viehweide überlassen",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=72023
-Dreifaltigkeitskapelle beim Galgenbühel,Kleindenkmäler,48.35333,14.677876,Spätbarocke Kapelle aus 1800 mit Wandmalereien und Heiligenfiguren hll. Sebastian und Leonhart(?),https://de.wikipedia.org/wiki/Liste_der_denkmalgesch%C3%BCtzten_Objekte_in_Bad_Zell
-Pranger Bad Zell,Pranger,48.34987,14.669471,"Prangersäule am Marktplatz aus dem Jahr 1574. Auf der Säule stehend eine Statue in Ritterrüstung, Schwert und Schild (darauf das Wappen der Jörger von Tollet) – das einzig erhaltene Prangermandl Oberösterreichs.",https://de.wikipedia.org/wiki/Liste_der_denkmalgesch%C3%BCtzten_Objekte_in_Bad_Zell
-Pranger Litschau,Pranger,48.94422,15.0458,"gut erhaltener Pranger mit Steinkugel, 1688 Mit der Steinkugel (Bagstein) hat es eine besondere Bewandtnis. Der Fachausdruck „Bagstein“ kommt vom mittelhochdeutschen Wort „bagen“ und hat die Bedeutung „zanken, streiten“. Das Herumtragen des Bagsteines war eine typische Frauenstrafe für zanksüchtige Frauen.",orte/litschau.html
-Galgenfeld,Flurnamen,48.93561,15.0596,,orte/litschau.html
-Galgenfeld,Flurnamen,48.93929,15.06648,,orte/litschau.html
-Galgen Litschau,Richtstätten,48.936877,15.06555,Der Galgen von Litschau stand auf dem Galgenbühel bei Loimanns.,orte/litschau.html
-Galgenkreuz,Kleindenkmäler,48.94123,15.06792,ein einfaches Steinkreuz aus Granit,orte/litschau.html
-Antoniusmarterl,Kleindenkmäler,48.93608,15.06169,letzte Gelegenheit für die Delinquenten zu einem Gebet oder gar die Richtstätte selbst?,orte/litschau.html
-Galgenfeld,Flurnamen,48.93273,15.078816,,
-Wasenmeister,Abdecker,48.93733,15.091013,,
-Galgenberg Weitra,Flurnamen,48.69392,14.91341,"FL, FK: Gerichtsfeld",https://maps.arcanum.com/de/map/europe-19century-secondsurvey/?bbox=1656407.0236052338%2C6221789.553057569%2C1665290.4394862514%2C6224414.687247737&map-list=1&layers=158%2C164
-Ram- oder Landrichterhof,Flurnamen,48.664338,14.99991,"Der Name Ramhof könnte auf ‚Raben‘ zurückgehen – jene Aasvögel, die sich an Galgenplätzen sammelten. In vielen Regionen markierten Flurnamen mit ‚Raben–‘, ‚Rapp–‘ oder ‚Ram–‘ die Nähe zu einer Richtstätte oder Wasenmeisterei. Ob dies auch hier zutrifft, lässt sich erst durch ältere Katasterquellen und Flurnamennachweise klären.",
-Galgen Kirchberg am Walde,Richtstätten,48.73403,15.07393,"zwei ca. 5m hohe Granitpfeiler, die sich nach oben etwas verjüngen",https://www.kirchbergamwalde.at/Galgen
-Galgen Werfenstein,Richtstätten,48.23376,14.88581,Richtstätte der Herrschaft Werfenstein,
-Galgen Engelhartszell,Richtstätten,48.51126,13.7205,Nur mehr geringe Spuren (Pfostenlöcher) weisen auf die ehem.Richtstätte auf der Galgenleiten bei Engelhartszell hin.,https://www.lefnaer.com/recht/galgen_Galgenpfostenloecher%20Engelhartszell.html
-Galgenplatz Peilstein,Richtstätten,48.61946,13.92138,"Im Jahr 1710 wurde das letzte Todesurteil vollstreckt. Auf einem, von einer Steinmauer umgebenen, künstlich angelegten Hügel im Ausmaß von 5x3,5m richtete man den Galgen auf. Heute ist diese ehemalige Richtstätte noch deutlich erkennbar. Sie befindet sich am Beginn des sagenumwobenen Schneidergrabens",http://rat.imareal.sbg.ac.at/streitt/flurnamen/peilstein-galgenplatz-bei-steinberg
-Galgen,Richtstätten,48.25164,14.60041,"Galgen auf einem Hügel (Mühlberg) bei den beiden Galgenhäusln, 1878 Galgenfundament freigelegt",https://de.m.wikipedia.org/wiki/Datei:Perg-Ober%C3%B6sterreich-Alte-Donaustrasse-B3c-Nischenblockpfeiler.JPG
-Schwarzes Kreuz,Kleindenkmäler,48.2499,14.608437,"Burgfriedsgrenze, hier wurden die Delinquenten dem Landgericht Schwertberg übergeben",https://www.yumpu.com/de/document/read/67294000/grenzuberschreitende-kleindenkmalforschung-oberosterreich-sudbohmen-die-roten-kreuze-rechtsaltertumer-aus-der-zeit-der-rodungen-durch-die-babenberger-und-fruhen-habsburger-band-2
-"Häusl im Radl, Galgenwieshäusl",Galgenhäuser,48.256107,14.57516,Galgenwieshäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=69339
-Galgen St. Oswald,Richtstätten,48.62477,14.032994,Richtstätte Pfleggerichts Lichtenau. Beim Straßenbau kam es zu Knochenfunden. Ein steinernes Marterl mit der Jahreszahl 1668 erinnert an die Richtstätte.,
-Galgen,Flurnamen,48.61619,14.50262,"Die Flurnamen Galgen im Geiseneggerbühel, Gerichtsholz und Schergengraben auf dem Hussenberg sind im Dorf überliefert.",
-Galgen Babenham,Richtstätten,48.026027,13.14839,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1462115.545017727%2C6110076.827692495%2C1466477.2329442499%2C6111794.272171778&map-list=1&layers=163%2C165
-Galgen Schärding,Richtstätten,48.47391,13.444945,Gericht am Kreuzberg,
-"Richtstattweg, Kreuzberg",Flurnamen,48.47425,13.44766,,
-Abdecker,Abdecker,48.457391,13.44967,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43882
-Totengraberhäusl,Abdecker,48.456375,13.4494,Totengraberhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43870
-"Richtstätte ""Drei Linden"" in Hofkirchen",Richtstätten,48.467287,13.821708,Richtplatz des Hochgerichts Marsbach. Letzte Hinrichtung 1848,https://data.matricula-online.eu/de/oesterreich/oberoesterreich/hofkirchen-im-muehlkreis/306%252F1848/?pg=3
-Galgen,Richtstätten,48.44233,14.0528,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1562663.7537159151%2C6180031.820622208%2C1567025.441642438%2C6181749.265101491&map-list=1&layers=163%2C165
-Galgenauerhäusl,Galgenhäuser,48.44417,14.053463,"Häusl in der Gallnau, Galgenauerhäusl",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=57657
-Galgenau,Flurnamen,48.45711,14.03629,,
-Galgen am Ochsenzagl,Richtstätten,48.31263,14.299538,"am sog. Ochsenzagl, heute k.k. Tabakfabrik",
-Galgen,Richtstätten,48.52947,14.50541,"hier stand das Galgenmarterl, ein rotes Kreuz. Übergabestelle der Malefizpersonen. In der Nähe stand der Galgen.",
-Galgen Arbesbach,Richtstätten,48.49025,14.94654,"gemauerte Säulen aus Bruchstein mit einer Sockelmauer von kreisförmigen Grundriss, sehr gut erhalten",https://www.marterl.at/suche/detail?oid=11703
-Galgen Tastelberg,Richtstätten,47.921328,13.81532,am Stich von Merian 1649 ganz rechts in der Bildmitte der dreischläfrige Galgen,https://de.wikipedia.org/wiki/Wunderburg_(Gmunden)#/media/Datei:Gmunden_Traunsee-neu.jpg
-Hochgericht Gmunden,Richtstätten,47.92537,13.79709,1465 erhielt Gmunden das bis dahin zum Landgericht Ort gehörige hohe Stadtgericht. Auch auf dem Stich von Merian (1656) gut zu sehen.,https://www.arcanum.com/hu/online-kiadvanyok/OsterreichischerStadtatlas-osterreichischer-stadteatlas-1/gmunden-1104/wachstumsphasenkarte-mit-legende-11F3/
-Galgen Wolfsegg,Richtstätten,48.10299,13.66966,"Wolf — Haken am Galgen, auch Galgen selbst, also alte Richtstätte",
-Galgen Bergern,Richtstätten,48.10415, 13.632432°,"1698 wird ein letzter Delinquent wird am Galgen oberhalb des Richterhauses erhängt , nachdem er vorher einer hübschen Frau die Nase abgebissen hatte.",https://www.ottnang.info/Archiv/Ortschaften/bergern/Rueckblick.htm
-Pranger Hofkirchen,Pranger,48.48288,13.8106,um 1680 errichtet,https://de.m.wikipedia.org/wiki/Datei:Pranger_Hofkirchen_I.jpg
-Galgen,Richtstätten,48.4877,13.78822,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1533231.9882192889%2C6187062.103172189%2C1537593.6761458118%2C6188779.547651472&map-list=1&layers=163%2C165
-Pranger Neumarkt,Pranger,48.273532,13.72773,Im Rahmen der Feiern zum 800 Jahr-Jubiläum stellte die Gemeinde die Pestsäule wieder auf.,https://www.neumarkt-hausruckkreis.at/Kapitell_des_ehemaligen_Prangers
-Pranger Mauthausen,Pranger,48.24075,14.51704,"stand ursprünglich gegenüber dem Bräuhaus, 1583",https://www.donauregion.at/mauthausen-sehenswertes/oesterreich-poi/detail/430029165/pranger.html
-Pranger Kefermarkt,Pranger,48.443034,14.538623,um ca. 1479 errichtet,https://de.m.wikipedia.org/wiki/Datei:Pranger_Kefermarkt.JPG
-Pranger Lasberg,Pranger,48.47088,14.53955,Entstehung: 1600 - 1700,https://de.m.wikipedia.org/wiki/Datei:Lasberg_Pranger.JPG
-Pranger Leopoldschlag,Pranger,48.615293,14.50338,"Um 1500, achteckige Säule auf Grundplatte mit aufgesetzen Halbkugeln, Halsschloss und Eisenspitze",https://de.m.wikipedia.org/wiki/Datei:Leopoldschlag-Pranger.jpg
-Pranger Peuerbach,Pranger,48.34535,13.77313,Die Granitsäule stammt aus dem Jahr 1571 und war ursprünglich vor dem Pflegerhaus am Rathausplatz aufgestellt,https://www.oberoesterreich.at/oesterreich-poi/detail/170528/pranger.html
-Galgen,Richtstätten,48.39501,14.29623,"Nähe Schloss Wildberg, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1590121.1488223206%2C6170735.200556368%2C1594482.8367488435%2C6172452.645035651&map-list=1&layers=163%2C165
-Galgenweberhäusl,Galgenhäuser,48.39396,14.295556,"Wildberg 39, Haslgraben 13",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62634
-Schedlbergerhaus,Galgenhäuser,48.40465,14.296142,Wildberg 15,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62641
-Galgen,Richtstätten,47.99734,12.87866,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1431399.2728880893%2C6104952.124164952%2C1435760.9608146122%2C6106669.568644235&map-list=1&layers=163%2C165
-Galgen Weinberg,Richtstätten,48.46515,14.5,"Landgericht Weinberg, 1638 belegt, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1612699.4487627535%2C6183532.564882186%2C1617061.1366892764%2C6185250.009361469&map-list=1&layers=163%2C165
-Galgenau,Flurnamen,48.46874,14.49939,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1612699.4487627535%2C6183532.564882186%2C1617061.1366892764%2C6185250.009361469&map-list=1&layers=163%2C165
-Galgenbach,Flurnamen,48.466931,14.4967,OSM,https://www.openstreetmap.org/#map=17/48.462998/14.502795
-Ganglsiedlung,Flurnamen,48.46563,14.50115,,
-Galgen,Richtstätten,48.3062,14.350504,"in der Nähe des Stettenhofes, LG Riedmark-Steyregg",
-Galgen Atzbach,Richtstätten,48.0807,13.69798,noch nicht lokalisiert,
-Galgen Frankenburg,Richtstätten,48.08073,13.49366,noch nicht genau lokalisiert,
-Wasenmeisterei,Abdecker,48.07808,13.497541,Abdeckerhaus Frankenburg am Hausruck,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=3929
-Scheibe,Flurnamen,48.46751,13.819978," Der Flurname weist hier ziemlich sicher auf die nahe Richtstätte hin auf der „gerädert“ wurde, „Radscheiben“.",
-Wasenmeister,Abdecker,48.469944,13.819502,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52761
-Wasenmeister,Abdecker,48.45944,14.52178,"Wasenmeisterhäusl, altes",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67739
-Abdecker,Abdecker,48.46597,14.52529,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67873
-Galgenbuche,Richtstätten,48.13254,13.62263,,
-Scheiben,Flurnamen,48.1384,13.63145,"Bahnhof Scheiben, Hinweis auf die nahe Galgenbuche?",
-Wolfen- oder Wasengütl,Abdecker,48.123337,13.646379,"Wolfen- oder Wasengütl, der Wolf war der Haken am Galgen",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8850
-Galgenlüsse,Flurnamen,48.4054,14.833204,Der Flurname deutet auf den Galgen hin,https://www.ooegeschichte.at/media/migrated/bibliografiedb/hbl1993_1_50-58.pdf
-Galgenweide,Flurnamen,48.017768,14.23942,nicht weit von der Blasiuskirche stand der Galgen des Landesgerichts Hall.,https://www.meinbezirk.at/steyr-steyr-land/c-lokales/rote-kreuze-der-geschichte-auf-den-grund-gehen_a1946659
+Schädelberg,Flurnamen,47.93835706,14.3664077,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Oberschedlkogl,Galgenhaus,47.9440053,14.1459666,,
+Unterschedlkogelgut,Flurnamen,47.94443284,14.14565485,,
+Schedlsölden,Galgenhaus,47.94802526,14.1230675,,
+Schwerdbergergut,Galgenhäuser,47.959901,13.696995,Schwerdbergergut in der Au,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=11270
+Galgen,Richtstätten,47.96036,14.01686,"auf der freien Heide zu Pettenbach, genauer Standort noch unbekannt",
+Schedelhaus,Galgenhaus,47.96431962,14.25584407,,
+Abdecker Lederau,Abdecker,47.968946,13.97371,Abdeckerneuhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=84478
+Gallngut,Galgenhäuser,47.969274,13.664049,Gallngut in der Stiglgrub,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=9808
+Schedlhaus,Galgenhaus,47.96945992,14.26158464,,
+Schedlwirtshaus,Galgenhaus,47.9697483,14.2658452,,
+Schädlbach,Flurnamen,47.97333003,14.31044132,,
+Schedlbachmühle,Flurnamen,47.97341384,14.31170931,,
+Schedlberger,Galgenhaus,47.97380595,14.30220384,,
+Schedlleiten,Galgenhaus,47.9743223,14.3034325,,
+Schwertberg,Flurnamen,47.97455,13.670876,Schwerdtbergergut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=10136
+Wasenmeister Überländ,Abdecker,47.97761,14.245428,Stauffmayrgut oder Wasenmeister Überländ,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=91998
+Gallnbrunn,Flurnamen,47.97892,13.51863,Gallabrunn,
+Wasenhaus,Abdecker,47.98082,14.242117,,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=91910
+Schedlgut,Galgenhaus,47.9850958,14.33299931,,
 Gericht,Richtstätten,47.985102,13.45963,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1496753.621222727%2C6102807.888368215%2C1501115.30914925%2C6104525.332847498&map-list=1&layers=163%2C165
-Gericht Thürnau,Richtstätten,48.27037,14.166343,"Richtstätte LG Hartheim oder Donautal ""Hangerholz"", JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1575337.3197745667%2C6151041.570472808%2C1579699.0077010896%2C6152759.014952091&map-list=1&layers=here-aerial%2C163%2C165
-Abdecker,Abdecker,48.273477,14.167726,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=28169
-Richtstätte,Richtstätten,48.170011,12.900399,Hinrichtungsstätte Gilgenbergbogen,
-Hochgericht Scharnstein,Richtstätten,47.91544,13.963755,"Herrschaft Scharnstein, auf der freien Heide in Viechtwang innerhalb Mühldorf",
-Hochgericht Steyr,Richtstätten,48.01963,14.418501,Hochgerichtsstätte der Herrschaft Burg Steyr ,
-Hochgericht,Richtstätten,48.380144,14.02425,"Landgericht Schaunburg, Fundament gut erhalten",
-Rotes Kreuz,Kleindenkmäler,48.37781,14.02188,,
-beim Galgenholz,Flurnamen,48.38019,14.01743,,
-Hochgericht Haag,Richtstätten,48.18915,13.62177,,
-Abdecker,Abdecker,48.18339,13.62813,Wasenmeisterhaus im Hausruck,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=7852
-Hochgericht Eferding,Richtstätten,48.31072,13.99402,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1557013.201636792%2C6157939.08684802%2C1559194.0456000532%2C6158797.809087661&map-list=1&layers=163%2C165
-Hochgericht Lambach,Richtstätten,48.09649,13.904353,"Detail aus der Lambacher Hausmappe<br><img src=""bilder/Lambach_Detail.jpg"" alt=""Hochgericht Lambach""     style=""width:260px;border-radius:8px;margin-top:6px;""><br><span style=""font-size:0.9em;"">Quelle: Stiftsarchiv Lambach, Lambacher Hausmappe, ca. 1723, Mappe 2.</span>",
-Helml-Kreuz,Kleindenkmäler,48.0934,13.898803,,
-Abdecker,Abdecker,48.09377,13.9074,,
-Gerichtsholz,Flurnamen,48.09786,13.914761,,
-Pranger St. Leonhard,Pranger,48.44331,14.67775,"Schlanker Obelisk, bezeichnet 1759, daneben erneuerter mast mit Schwertarm auf originalem Stein, der vermutlich zur Aufnahme der Marktfreihe diente.",https://de.m.wikipedia.org/wiki/Datei:Sankt_Leonhard_Pranger.JPG
-Hochgericht Freistadt,Richtstätten,48.49037,14.50452,"Landgericht Freistadt, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1613217.0199677178%2C6187846.538771669%2C1617578.7078942407%2C6189563.983250952&map-list=1&layers=here-aerial%2C163%2C165
-Schedelmaiergut,Galgenhäuser,48.4922,14.509653,Schedelmaiergut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67277
-Abdecker,Abdecker,48.51096,14.506307,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67119
-Hochgericht Münzbach,Richtstätten,48.26935,14.70229,"Herrschaft Windhaag, Galgenbüchel, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1636350.1080168313%2C6151064.089774319%2C1638530.9519800926%2C6151922.81201396&map-list=1&layers=here-aerial%2C163%2C165
-Schwerdtmühle,Flurnamen,48.268452,14.694436,"Rechts-/Symbolbezug zum Hochgericht (möglich, aber Nachweis nötig)",
-Hochgericht Oberneukirchen,Richtstätten,48.45927,14.226136,"Zwei dreischläfrige Galgen nebeneinander in JL eingetragen, Herrschaft Lobenstein",https://www.ooegeschichte.at/ausstellungen/schande-folter-hinrichtung/oertliche-und-sprachliche-tradition/richtstaettenarchaeologie
-Hochgericht Steyr 2,Richtstätten,48.04507,14.38966,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1600494.7524274494%2C6113062.675048532%2C1604856.4403539724%2C6114780.119527815&map-list=1&layers=163%2C165
-Hochgericht Enns,Richtstätten,48.2166,14.445084,"Hochgericht Kristein, Karte aus dem Jahr 1655, ""Justitia""<br><img src='bilder/Kristein_Richtstätte_1655.jpg' alt='1655' style='width:260px;border-radius:8px;margin-top:6px;'>",
-Hochgericht Enns 2,Richtstätten,48.20633,14.49876,Landgericht Burg Enns (Landesgerichtskarte 1906),
-Hochgerichtsberg,Richtstätten,47.91544,14.45414,"auch Gerichtskogel oder Hackerschädl beim Hangenden Stein genannt, Herrschaft Losenstein",https://www.burglosenstein.at/index.php/herrschaft-losenstein.html
-Hackerschädl,Flurnamen,47.91727,14.45401,der Name sagt alles,
-Kronstein,Flurnamen,47.90749,14.45591,"Krähen-/Rabenstein = Synonym für Richtstätte, Kronstein dürfte aus Kraan- oder Rabenstein („Krähenstein“) entstanden sein – ein Name, der häufig Richtstätten bezeichnet, da sich dort Raben und Krähen sammelten.",
-Köpfstätte Lengau,Richtstätten,48.006947,13.24406,"Köpfstadl, Köpfstadlpoint , FL, FK",https://maps.arcanum.com/de/map/europe-19century-secondsurvey/?bbox=1472103.3885291223%2C6107148.35548297%2C1476465.0764556453%2C6108865.799962253&map-list=1&layers=158%2C164
-Kopfstättsäule Astätt,Richtstätten,48.008448,13.158557,"letzte erhaltene Köpfstattsäule Österreichs, letzte Hinrichtung 1762",http://www.gaudeamus-tanz.at/koepfstaette-in-astaett/
-Wasenmeister,Abdecker,47.999714,13.21632,Wasenstatt am Mitterberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=37938
-Galgenhölzl,Richtstätten,48.01764,13.21866,"Galgenhülzl FK, FL",https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1469685.8592243171%2C6108812.770812798%2C1474047.54715084%2C6110530.215292081&map-list=1&layers=6
-Richtstätte,Richtstätten,48.27347,14.31395,"ab 1820, zu den 2 Kreuzen an der Gabelung der Reichsstraße, zwischen B1 und Brunnenfeld",https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&query=%22Galgenplatz%22&ref=anno-search&seite=29
-Richtstätte am Galgenbichl,Richtstätten,48.34991,14.57634,"Richtstätte von Reichenstein, Ziegelreste? Halmenberg.",https://www.zobodat.at/pdf/JOM_141a_0229-0257.pdf
-Richtstätte Gugalea,Richtstätten,48.3631,14.419377,"1272 - 1756 Richtstätte Markt Gallneukirchen, Steinsäule Penkenberg",https://www.meinbezirk.at/urfahr-umgebung/c-lokales/penkenberg-marterl-wieder-am-urspruenglichen-ort_a1600211
-Ramesberger,Galgenhäuser,48.364,14.41221,Krähen-/Rabenberg = Synonym für Richtstätte,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64595
-Richtstätte Hasenufer,Richtstätten,48.19668,14.22422,"in der Schranne wurde enthauptet, auf dem Haidlein bey dem Chreuz ei die Stras hinein zum Traunufer wurde gerädert und gebrannt",
-Rabensteinerhäusel,Galgenhäuser,48.19775,14.22141,"Krähen-/Rabenstein = Synonym für Richtstätte, Kronstein dürfte aus Kraan- oder Rabenstein („Krähenstein“) entstanden sein – ein Name, der häufig Richtstätten bezeichnet, da sich dort Raben und Krähen sammelten.",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=91121
-Richtstätte Kematen,Richtstätten,48.10776,14.17305,Richtstätte neben das Kemat-Schachen bei der Welser Straß auf der linken Hand,
-Richtstätte Niederneukirchen,Richtstätten,48.16043,14.339491,"Schranne / Richtstätte befand sich ""aussen auf dem Creuzholz, da stet ein Creuz""",
-Richtstätte Prandegg-Zellhof,Richtstätten,48.344583,14.707659,Die Richtstätte LG Prandegg (später LG Zellhof) mit Sitz in Zellhof befand sich in der Nähe des Geroldslehnergutes,
-Richtstätte St. Marien,Richtstätten,48.14638,14.27907,"Schranne, die Hinrichtungen fanden draußen im Samareiner Holz statt, dort wo ein Kreuz steht",
-Galgenmoos,Flurnamen,48.356365,13.718362,,
-Galgenberg Wimsbach,Richtstätten,48.05734,13.905665,"das Landgericht Wimsbach hatte die Blutgerichtsbarkeit inne, wovon der Galgenberg Zeugnis ablegt.",https://www.ooegeschichte.at/forschung/kleindenkmal/111373
-Abdecker,Abdecker,48.05549,13.91005,Abdeckerhaus in der Au,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=82855
-Hangern,Flurnamen,48.60448,13.819,"Hangern, Hanging",
 Gallaberg,Flurnamen,47.9893,13.60661,Galgenberg (Gallaberg) scheint erstmals in einer Urkunde auf,https://www.lenzing.ooe.gv.at/Leben_in_Lenzing/Gemeinde_Info/Gemeinde/Chronologie?utm_source=chatgpt.com
 Gallnbergergütl,Galgenhäuser,47.99014,13.61568,,
-Gallenberg,Flurnamen,48.2948,14.03621,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1560733.0066127202%2C6154745.420482439%2C1565094.6945392431%2C6156462.864961722&map-list=1&layers=163%2C165
-Rad,Flurnamen,48.30319,14.03209,Rathäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=26335
-Gollingerfeld,Flurnamen,48.304188,14.02763,FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1559302.8492989975%2C6156866.889225931%2C1563664.5372255205%2C6158584.333705214&map-list=1&layers=3%2C4
-Gollenbuch,Flurnamen,48.31315,13.6455,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1517073.3812459854%2C6157822.694350348%2C1521435.0691725083%2C6159540.138829631&map-list=1&layers=163%2C165
-Galnbölksölden,Galgenhäuser,48.31274,13.667143,Galnbölksölden,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=51720
-Würglau,Flurnamen,48.11878,13.448556,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1492588.239981773%2C6123225.822168858%2C1501311.615834819%2C6126660.711127424&map-list=1&layers=163%2C165
-Wolfersberg,Flurnamen,48.11546,13.455709,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1492588.239981773%2C6123225.822168858%2C1501311.615834819%2C6126660.711127424&map-list=1&layers=163%2C165
-Spiesberg,Flurnamen,48.14027,12.96131,"Spiesberg dürfte seinen Namen vom mittelalterlichen Brauch ableiten, die Köpfe der Hingerichteten auf Spießen oder Lanzen zur Schau zu stellen. Der Flurname bezeichnet somit mit hoher Wahrscheinlichkeit einen Platz im Umfeld der Richtstätte, an dem die Exekution oder die öffentliche Abschreckung stattfand.",
-Galgengut,Galgenhäuser,48.14053,12.9477,Galgengut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=32064
-Schwertberg,Flurnamen,47.97455,13.670876,Schwerdtbergergut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=10136
-Gallngut,Galgenhäuser,47.969274,13.664049,Gallngut in der Stiglgrub,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=9808
-Schwerdbergergut,Galgenhäuser,47.959901,13.696995,Schwerdbergergut in der Au,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=11270
+Schedlhof,Galgenhaus,47.9949543,14.29184689,,
+Schedlberg,Flurnamen,47.99562006,14.27219799,,
+Abdeckerhaus,Abdecker,47.99573,13.45614,Haringhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=2345
+Galgen,Richtstätten,47.99734,12.87866,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1431399.2728880893%2C6104952.124164952%2C1435760.9608146122%2C6106669.568644235&map-list=1&layers=163%2C165
+Abdecker,Abdecker,47.99746,13.73594,,
+Galgen,Richtstätten,47.99939,13.591023,an der Reichsstraße,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1511312.450665069%2C6105658.634222169%2C1515674.138591592%2C6107376.078701452&map-list=1&layers=163%2C165
+Wasenmeister,Abdecker,47.999714,13.21632,Wasenstatt am Mitterberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=37938
+Abdecker Puchheim,Abdecker,48.00058,13.701848,Wasenmeisterhaus im Mitterthal,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=11512
+Galgen,Richtstätten,48.005364,13.55891,an der Reichsstraße,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1507932.5008205827%2C6106222.357305774%2C1512294.1887471057%2C6107939.801785057&map-list=1&layers=163%2C165
+Schedlberg,Flurnamen,48.00549114,14.18286715,,
+Köpfstätte Lengau,Richtstätten,48.006947,13.24406,"Köpfstadl, Köpfstadlpoint , FL, FK",https://maps.arcanum.com/de/map/europe-19century-secondsurvey/?bbox=1472103.3885291223%2C6107148.35548297%2C1476465.0764556453%2C6108865.799962253&map-list=1&layers=158%2C164
+Kopfstättsäule Astätt,Richtstätten,48.008448,13.158557,"letzte erhaltene Köpfstattsäule Österreichs, letzte Hinrichtung 1762",http://www.gaudeamus-tanz.at/koepfstaette-in-astaett/
+Schedlgut,Galgenhaus,48.01100741,13.44470734,,
+Schedelgut,Galgenhaus,48.01118572,14.29856536,,
+Schedlhof,Galgenhaus,48.0111933,14.2978634,,
+Galgen Vöcklabruck,Richtstätten,48.014391,13.66118,"Die Blutgerichtsbarkeit wurde Vöcklabruck 1392 durch Herzog Albrecht III. förmlich verliehen, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1519167.3374074239%2C6107863.70721934%2C1523529.0253339468%2C6109581.151698623&map-list=1&layers=163%2C165
+Gerichtsberg-Kapelle,Kleindenkmäler,48.01698466,13.66274893,"zwischen 1850 - 1885 errichtet, in der Nähe des Gerichtsplatzes, sonst kein direkter Zusammenhang",https://www.ooegeschichte.at/forschung/kleindenkmal/282915
+Galgenhölzl,Richtstätten,48.01764,13.21866,"Galgenhülzl FK, FL",https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1469685.8592243171%2C6108812.770812798%2C1474047.54715084%2C6110530.215292081&map-list=1&layers=6
+Galgenweide,Flurnamen,48.017768,14.23942,nicht weit von der Blasiuskirche stand der Galgen des Landesgerichts Hall.,https://www.meinbezirk.at/steyr-steyr-land/c-lokales/rote-kreuze-der-geschichte-auf-den-grund-gehen_a1946659
+Abdecker Saaß,Abdecker,48.018932,14.35164,,
+Hochgericht Steyr,Richtstätten,48.01963,14.418501,Hochgerichtsstätte der Herrschaft Burg Steyr ,
+Abdecker Timelkam,Abdecker,48.02177,13.60007,"Hofwaid, Abdeckerhaus",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=6657
+Galgen Babenham,Richtstätten,48.026027,13.14839,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1462115.545017727%2C6110076.827692495%2C1466477.2329442499%2C6111794.272171778&map-list=1&layers=163%2C165
+Schedlleitnerhäusl,Galgenhaus,48.02959951,14.33518177,,
+Schedlbergerhaus,Galgenhaus,48.03475408,14.20859226,,
+Abdecker Obereinwald,Abdecker,48.0384,13.63739,Abdeckerbehausung,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8467
+Schedelbergerstraßergut,Flurnamen,48.03955,14.115568,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen (vgl. Schädelstraße in Wels),https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87644
+Schedlberg,Flurnamen,48.04052,14.11265,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87587
+Schedlhof,Galgenhaus,48.04280102,13.90692649,,
+Abdecker Einwald,Abdecker,48.04303,13.636537,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8428
+Strassergut bei Schedlberg,Flurnamen,48.04422,14.121718,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87845
+Hochgericht Steyr 2,Richtstätten,48.04507,14.38966,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1600494.7524274494%2C6113062.675048532%2C1604856.4403539724%2C6114780.119527815&map-list=1&layers=163%2C165
+Abdecker Ungenach,Abdecker,48.04693,13.639391,"Abdeckerhäusl, Haus in der Kuglstatt",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8586
+Schedlhub,Galgenhaus,48.04968231,13.1477393,,
+In der Scheiben,Flurnamen,48.05164,14.148062," Der Flurname könnte auf eine Richtstätte hinweisen auf der „gerädert“ wurde, „Radscheiben“.",
+Abdecker,Abdecker,48.05549,13.91005,Abdeckerhaus in der Au,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=82855
+Galgenberg Wimsbach,Richtstätten,48.05734,13.905665,"das Landgericht Wimsbach hatte die Blutgerichtsbarkeit inne, wovon der Galgenberg Zeugnis ablegt.",https://www.ooegeschichte.at/forschung/kleindenkmal/111373
+Bildstock am Galgenberg,Kleindenkmäler,48.05893309,13.90586479,ein aus zwei Säulenteilen zusammengesetzter Bildstock,https://www.ooegeschichte.at/forschung/kleindenkmal/111373
+Schedlbergersölden,Flurnamen,48.06229,14.13871,Schedlbergersölden zu Grub,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=88811
+Galgen,Richtstätten,48.062891,13.78611,"fiel im Jahre 1556 vermorscht zusammen, wieder aufgebaut (JL)",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1533437.3824352073%2C6116151.5802559005%2C1537799.0703617302%2C6117869.024735183&map-list=1&layers=163%2C165
+Wasenmeistzer Fugging,Abdecker,48.065802,12.874323,"Wasenstatthäusl, FK",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=31384
+Abdecker Ibm,Abdecker,48.067061,12.95811,,
+Wasenmeister Pitzenberg,Abdecker,48.06728,13.7341,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=13353
+Schedlgut,Galgenhaus,48.07196519,14.45075127,,
+Schedlaignersölde,Galgenhaus,48.07743788,14.38074775,,
+Wasenmeisterhaus am Fuchsbichl,Abdecker,48.07756,14.257888,Abdeckerhaus am Fuchsbichl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=92319
+Wasenmeisterei,Abdecker,48.07808,13.497541,Abdeckerhaus Frankenburg am Hausruck,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=3929
+Galgen Atzbach,Richtstätten,48.0807,13.69798,noch nicht lokalisiert,
+Galgen Frankenburg,Richtstätten,48.08073,13.49366,noch nicht genau lokalisiert,
 Gerichtsplatz Schachenwald,Richtstätten,48.08095,14.11687,,
 Abdecker,Abdecker,48.08683,14.140333,Abdeckerhaus im Schachen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=88858
 Hinkermeier,Galgenhäuser,48.08791,14.110531,Hinkenhof,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87526
 Rothhueb,Flurnamen,48.090059,14.114512,"Rothhueb dürfte vom altgermanischen ruot („Recht, Ordnung“) stammen und auf einen Ort hinweisen, an dem einst Recht gesprochen wurde. JL FK, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569540.898961317%2C6120792.805625565%2C1573902.58688784%2C6122510.250104848&map-list=1&layers=163%2C165
-Untergallngut,Galgenhäuser,48.09756,14.09083,Untergallngut zu Oberweidach,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87010
-Gallngut,Galgenhäuser,48.11143,14.09407,Galln oder Weydingergut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87107
-Schedlbergersölden,Flurnamen,48.06229,14.13871,Schedlbergersölden zu Grub,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=88811
-In der Scheiben,Flurnamen,48.05164,14.148062," Der Flurname könnte auf eine Richtstätte hinweisen auf der „gerädert“ wurde, „Radscheiben“.",
-Schedlberg,Flurnamen,48.04052,14.11265,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87587
-Schedelbergerstraßergut,Flurnamen,48.03955,14.115568,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen (vgl. Schädelstraße in Wels),https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87644
-Strassergut bei Schedlberg,Flurnamen,48.04422,14.121718,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87845
-Abdecker,Abdecker,47.99746,13.73594,,
-Abdecker,Abdecker,48.55023,13.887544,,
-Abdecker,Abdecker,48.53373,14.36788,,
-Abdecker Parz,Abdecker,48.239741,13.85498,,
-Abdecker Linz,Abdecker,48.267593,14.32091,,
-Abdecker Scharlinz,Abdecker,48.26017,14.29494,,
-Abdecker Traun,Abdecker,48.21117,14.215525,,
-Abdecker Tissenbach,Abdecker,47.89025,13.968481,,
-Wasenhaus,Abdecker,47.98082,14.242117,,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=91910
-Wasenmeister Überländ,Abdecker,47.97761,14.245428,Stauffmayrgut oder Wasenmeister Überländ,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=91998
-Abdecker,Abdecker,48.438652,14.31617,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62975
-Abdecker Rainbach,Abdecker,48.54777,14.470292,,
-Abdecker Hinterndobl,Abdecker,48.25603,13.63367,Wasenmeisterhaus in Limberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8127
-Abdeckerhaus Hagenberg,Abdecker,48.36494,14.504952,Abdeckerhaus am Zlaim,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67226
-Wasenmeister Langholzfeld,Abdecker,48.24587,14.242898,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=28814
-Abdecker Ibm,Abdecker,48.067061,12.95811,,
-Abdecker Hörbach,Abdecker,48.128517,13.751773,,
-Abdecker Julianaberg,Abdecker,48.13115,14.20677,,
-Wasenmeisterhaus am Fuchsbichl,Abdecker,48.07756,14.257888,Abdeckerhaus am Fuchsbichl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=92319
-Abdeckerhaus,Abdecker,47.99573,13.45614,Haringhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=2345
-Abdecker Wildenau,Abdecker,48.203,13.308109,Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=39894
-Abdeckerhaus im Sand,Abdecker,47.72141,14.316303,Wasenmeister am Sand nächst Windischgarsten,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=94638
-Abdecker Obereinwald,Abdecker,48.0384,13.63739,Abdeckerbehausung,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8467
-Abdecker Luftenberg,Abdecker,48.29857,14.42436,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64950
-Abdecker Eberschwang,Abdecker,48.14725,13.56481,Abdeckerhaus zu Reinthall,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=48821
-Abdecker Grein,Abdecker,48.235775,14.839206,Diener- oder Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=75386
-Abdecker Lederau,Abdecker,47.968946,13.97371,Abdeckerneuhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=84478
-Abdecker Puchheim,Abdecker,48.00058,13.701848,Wasenmeisterhaus im Mitterthal,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=11512
-Abdecker Grein,Abdecker,48.227424,14.849469,Abdeckherhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=75516
-Abdecker Ungenach,Abdecker,48.04693,13.639391,"Abdeckerhäusl, Haus in der Kuglstatt",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8586
-Abdecker Einwald,Abdecker,48.04303,13.636537,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8428
-Abdecker Gallspach,Abdecker,48.211308,13.80722,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=17307
-Abdecker Ried,Abdecker,48.224703,13.4413,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43558
-Abdecker Timelkam,Abdecker,48.02177,13.60007,"Hofwaid, Abdeckerhaus",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=6657
-Abdecker Ampflwang,Abdecker,48.097955,13.556821,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=5508
-Abdecker Laah,Abdecker,48.13114,14.36043,Wasenmeister im Hamet,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=96142
-Abdecker Offenhausen,Abdecker,48.156224,13.81506,Wasenmeister- oder Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=17775
-Abdecker Kallham,Abdecker,48.29724,13.730221,Wasenmeisterhaus im Hochholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=12966
+Schedlberg?,Flurnamen,48.09047814,14.26296505,,
 Abdecker Thomasroith,Abdecker,48.090645,13.63991,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8587
-Abdecker Holzgassen,Abdecker,48.147135,13.93495,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=22686
-Abdecker Bad Mühllacken,Abdecker,48.3712,14.0754,"Feldmetzgerhäusl in der Waid, Wasenmaisterhaus",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=58168
-Abdecker Saaß,Abdecker,48.018932,14.35164,,
-Abdecker Schwertberg,Abdecker,48.27315,14.58488,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=69675
-Abdecker Hochstraß,Abdecker,48.30737,14.53731,Abdeckerhäusl in Puchholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=68419
-Abdecker hinterm Hundskogel,Abdecker,47.69998,13.614274,,
-Wasenmeister Molln,Abdecker,47.89362,14.28244,Wasenmeisterhäusel in Rabach,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=93495
-Schinderviertel,Flurnamen,47.89373,14.28148,,
-Richtstätte bei der Wegscheid,Richtstätten,48.17678,12.830207,hier wurde der Fricklbub am 15.12.1719 hingerichtet,http://www.anton-praetorius.de/downloads/Burghausen_Raimund_Frickl_Zaubereiprozess_1719.pdf
-Kronleiten,Flurnamen,48.18465,12.981279,"Krähen-/Raben= Synonym für Richtstätte, KronLEITEN könnte aus Kraanleiten („Krähenleiten“) entstanden sein – ein Name, der häufig Richtstätten bezeichnet, da sich dort Raben und Krähen sammelten.",
-Radwinkel,Flurnamen,48.20242,12.9707,"Der Flurname könnte auf ein nahe Richtstätte hinweisen, auf der „gerädert“ wurde, „Radscheiben“. JL, FL, FK",https://maps.arcanum.com/de/map/cadastral/?bbox=1441738.980141825%2C6139851.443103662%2C1446095.89075408%2C6141568.887582945&map-list=1&layers=3%2C4
-Rothenbuch,Flurnamen,48.208,12.9671,"Eine „Rotbuche“ könnte ursprünglich „Ruotbuche“, also die „Rechtsbuche“ gewesen sein. JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1439226.586063717%2C6139159.299817597%2C1447940.4072882272%2C6142594.188776162&map-list=1&layers=163%2C165
-Galgen,Richtstätten,48.223,12.9959,"Hugo von Preen fand hier mehrere verscharrte Leichen (Quelle: Bundwerk, 2013 Seite 125)",
-Abdeckerhäusel am Mühlholz,Abdecker,48.50762,13.79222,Abdeckerhäusel am Mühlholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52484
-Wasenmeisterhäusl im Graben,Abdecker,48.496729,14.013267,Wasenmeisterhäusl im Graben,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=56843
-Wasenmeisterhäusl Unterweißenbach,Abdecker,48.43842,14.77998,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=74024
-Wasenmeisterhaus Altenhof,Abdecker,48.141417,13.68118,Wasenmeisterhaus und Wasenmeisterhaus altes,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=10592
-Abdeckerhaus Waasen,Abdecker,48.20055,13.176888,Wasenmeister,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=37068
-Wasenmeisterhäusl Holzgassen,Abdecker,48.14087,12.817008,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=30748
-Wasenmeisterjaus Peuerbach,Abdecker,48.36538,13.787809,Wasenmeisterhaus in der Leithen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=16262
-Wasenmeister Münzkirchen,Abdecker,48.483471,13.57521,Wasenmeisterhaus vorn Thanraderholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=49369
-Wasenmeister Raab,Abdecker,48.347594,13.637707,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1514469.4089832038%2C6162907.077320589%2C1523183.230207714%2C6166341.966279155&map-list=1&layers=163%2C165
-Wasenmeister Andorf,Abdecker,48.35391,13.568909,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=48993
-Wasenmeister Laufenbach,Abdecker,48.38673,13.51557,Abdeckersölden und Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=46903
-Wasenmeister See,Abdecker,48.17101,13.867869,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=20134
-Wasenmeister Strohheim,Abdecker,48.33302,13.98152,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=24077
-Wasenmeister in Ried,Abdecker,48.23219,13.47606,Wasenmeister in Ried,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=45059
-Wasenmeister,Abdecker,48.217381,13.49049,"Wasenmeisterhaus, Wasenstatt in der Etz",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=45870
-Wasenhofstatt,Abdecker,48.18561,14.69456,"Wasenhofstatt, Wohn- und Arbeitsort des Wasenmeisters",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=72302
-Abdeckerei an Hart,Abdecker,48.231808,14.767347,Abdeckerei an Hart,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=73857
-Galgenberg,Richtstätten,48.226336,14.76705,FK Franziszeischder Kataster,https://maps.arcanum.com/de/map/cadastral/?bbox=1643135.5984826116%2C6144232.849754936%2C1644224.8261356754%2C6144662.210874756&map-list=1&layers=3%2C4
-Wasenmeister Heinrichsberg,Abdecker,48.640549,13.841254,Wasenmeister,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=53210
 Wasenmeister Ertlmoos,Abdecker,48.092326,13.40267,Wasenmeister zu Ertlmoos,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=41964
-Wasenmeister St. Georgen,Abdecker,47.935452,13.45886,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=2436
-Wasenmeister St. Marien,Abdecker,48.154443,14.27172,"Wasenmeisterhaus im St.Mareiner Holz, JL, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=92982
-Wasenmeistzer Fugging,Abdecker,48.065802,12.874323,"Wasenstatthäusl, FK",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=31384
-Wasenmeister Hochburg,Abdecker,48.12779,12.885236,"Wasenmeistersölde, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=31547
-Wasenmeister Traberg,Abdecker,48.504401,14.21893,Wasenmeisterwerkstatt in Traberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=61184
-Wasenmeister Pichling,Abdecker,48.2567,14.36506,Wasenmeisterhaus in der Oyden,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=96230
-Wasenmeister Mattighofen,Abdecker,48.103295,13.17432,Wasensölden,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=36976
+Schedlgut,Galgenhaus,48.09250297,13.84103911,,
+Schedlgut,Galgenhaus,48.093308,13.83960665,,
+Helml-Kreuz,Kleindenkmäler,48.0934,13.898803,,
+Abdecker,Abdecker,48.09377,13.9074,,
+Hochgericht Lambach,Richtstätten,48.09649,13.904353,"Detail aus der Lambacher Hausmappe<br><img src=""bilder/Lambach_Detail.jpg"" alt=""Hochgericht Lambach""     style=""width:260px;border-radius:8px;margin-top:6px;""><br><span style=""font-size:0.9em;"">Quelle: Stiftsarchiv Lambach, Lambacher Hausmappe, ca. 1723, Mappe 2.</span>",
+Untergallngut,Galgenhäuser,48.09756,14.09083,Untergallngut zu Oberweidach,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87010
+Gerichtsholz,Flurnamen,48.09786,13.914761,,
+Abdecker Ampflwang,Abdecker,48.097955,13.556821,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=5508
 Radwiesen,Flurnamen,48.10085,13.16275,"Der Flurname könnte auf ein nahe Richtstätte hinweisen, auf der „gerädert“ wurde, FK",https://maps.arcanum.com/de/map/cadastral/?bbox=1463093.7284914851%2C6122699.67673976%2C1467450.63910374%2C6124417.121219043&map-list=1&layers=3%2C4
+Galgen Wolfsegg,Richtstätten,48.10299,13.66966,"Wolf — Haken am Galgen, auch Galgen selbst, also alte Richtstätte",
+Wasenmeister Mattighofen,Abdecker,48.103295,13.17432,Wasensölden,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=36976
+Galgen Bergern,Richtstätten,48.10415, 13.632432°,"1698 wird ein letzter Delinquent wird am Galgen oberhalb des Richterhauses erhängt , nachdem er vorher einer hübschen Frau die Nase abgebissen hatte.",https://www.ottnang.info/Archiv/Ortschaften/bergern/Rueckblick.htm
+Richtstätte Kematen,Richtstätten,48.10776,14.17305,Richtstätte neben das Kemat-Schachen bei der Welser Straß auf der linken Hand,
+Dumenschedlgut,Galgenhaus,48.11063934,14.36201216,,
+Gallngut,Galgenhäuser,48.11143,14.09407,Galln oder Weydingergut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87107
+Wolfersberg,Flurnamen,48.11546,13.455709,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1492588.239981773%2C6123225.822168858%2C1501311.615834819%2C6126660.711127424&map-list=1&layers=163%2C165
+Würglau,Flurnamen,48.11878,13.448556,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1492588.239981773%2C6123225.822168858%2C1501311.615834819%2C6126660.711127424&map-list=1&layers=163%2C165
+Wolfen- oder Wasengütl,Abdecker,48.123337,13.646379,"Wolfen- oder Wasengütl, der Wolf war der Haken am Galgen",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8850
+Wasenmeister Hochburg,Abdecker,48.12779,12.885236,"Wasenmeistersölde, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=31547
+Abdecker Hörbach,Abdecker,48.128517,13.751773,,
+Abdecker Laah,Abdecker,48.13114,14.36043,Wasenmeister im Hamet,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=96142
+Abdecker Julianaberg,Abdecker,48.13115,14.20677,,
+Schedlgut,Galgenhaus,48.13127124,13.79635859,,
+Galgenbuche,Richtstätten,48.13254,13.62263,,
+Scheiben,Flurnamen,48.1384,13.63145,"Bahnhof Scheiben, Hinweis auf die nahe Galgenbuche?",
+Spiesberg,Flurnamen,48.14027,12.96131,"Spiesberg dürfte seinen Namen vom mittelalterlichen Brauch ableiten, die Köpfe der Hingerichteten auf Spießen oder Lanzen zur Schau zu stellen. Der Flurname bezeichnet somit mit hoher Wahrscheinlichkeit einen Platz im Umfeld der Richtstätte, an dem die Exekution oder die öffentliche Abschreckung stattfand.",
+Galgengut,Galgenhäuser,48.14053,12.9477,Galgengut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=32064
+Wasenmeisterhäusl Holzgassen,Abdecker,48.14087,12.817008,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=30748
+Wasenmeisterhaus Altenhof,Abdecker,48.141417,13.68118,Wasenmeisterhaus und Wasenmeisterhaus altes,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=10592
+Wolfenkreuz,Kleindenkmäler,48.143805,13.62665,eigentlich ein Marien-Bildstöckl,https://www.ooegeschichte.at/media/migrated/bibliografiedb/hbl1973_1_2_57-80.pdf
+Richtstätte St. Marien,Richtstätten,48.14638,14.27907,"Schranne, die Hinrichtungen fanden draußen im Samareiner Holz statt, dort wo ein Kreuz steht",
+Abdecker Holzgassen,Abdecker,48.147135,13.93495,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=22686
+Abdecker Eberschwang,Abdecker,48.14725,13.56481,Abdeckerhaus zu Reinthall,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=48821
+Galgenhügel,Flurnamen,48.15042,13.9805,ein Galgenstandort aus viel früherer Zeit,https://www.roemerweg.at/wp-content/uploads/2025/11/Galgenhuegel_2025.pdf
+Wasenmeister St. Marien,Abdecker,48.154443,14.27172,"Wasenmeisterhaus im St.Mareiner Holz, JL, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=92982
+Fronfeste Wels,Richtstätten,48.15597,14.0253,Johann Hofreiter wird am 9.7.1886 im hinteren Hof der Welser Fronfeste gehängt.Dies war die letzte Hinrichtung in Wels ,
+Galgenhaus,Galgenhäuser,48.156069,13.99041,"Galgenhaus, FL, ca. 1965 geschleift. Letzter Besitzer: ""der alte Hutterer""",
+Abdecker Offenhausen,Abdecker,48.156224,13.81506,Wasenmeister- oder Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=17775
+Richtstätte,Richtstätten,48.15648,14.02445,in der Welser Pancharte erwähnt,orte/rathauswels.html
+Schandkreuz,Pranger,48.1566,14.0285,Auf dem Stich von Merian aus dem Jahre 1640 (bzw. Vischer 1674) rechts neben der kaiserlichen Burg zu sehen.<br><img src='bilder/Schandkreuz.jpg' alt='Schandkreuz Wels' style='width:260px;border-radius:8px;margin-top:6px;'>,
+Kreisgericht Wels,Richtstätten,48.156999,14.019104,"Eröffnung im November 1900, k.k. Justizpalast (!)",orte/kreisgerichtwels.html
+Schedlstraße,Flurnamen,48.15737,13.98806,"oder alte Lambacher Straße, heute Römerstraße",orte/schedlstrasse.html
+Hochgericht der Stadt Wels,Richtstätten,48.157892,13.99153,"Dreischläfriger Galgen, LH, zahlreiche Skelettfunde",orte/wels-hochgericht.html
+Galgenhäusel,Galgenhäuser,48.15894,14.00149,Galgenhaus in Wagrain oder Häusl beim Siechhof,
+Richtstätte Niederneukirchen,Richtstätten,48.16043,14.339491,"Schranne / Richtstätte befand sich ""aussen auf dem Creuzholz, da stet ein Creuz""",
 Wasenmeister Thaling,Abdecker,48.16957,14.47681,Waasenmaisterhaus auf der Haid,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=100153
-Wasenmeister Pitzenberg,Abdecker,48.06728,13.7341,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=13353
-Wasenstatt,Abdecker,48.27581,13.45121,"Wasenstat, Abdecker an der Au, JL, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=44007
-Wasenstatt Obernberg am Inn,Abdecker,48.32775,13.344176,Simon Ehgartnerische Behausung und Wasenstatt,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=40835
+Richtstätte,Richtstätten,48.170011,12.900399,Hinrichtungsstätte Gilgenbergbogen,
+Wasenmeister See,Abdecker,48.17101,13.867869,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=20134
+Galgen in der Flez,Richtstätten,48.17285,14.01854,"zahlreiche Hinrichtungen im 19. Jhdt., daneben ehem. Gasthaus 'zur schönen Aussicht'",orte/flez.html
+Wölflkreuzsäule,Kleindenkmäler,48.17293,14.01892,"Errichtung unbekannt, nach Beschädigung durch LKW an den Straßenrand versetzt",
+Richtstätte bei der Wegscheid,Richtstätten,48.17678,12.830207,hier wurde der Fricklbub am 15.12.1719 hingerichtet,http://www.anton-praetorius.de/downloads/Burghausen_Raimund_Frickl_Zaubereiprozess_1719.pdf
+Richtberg,Flurnamen,48.18264,13.96309,mündlich überliefert,
+Auerspergisches Blutgerüst,Richtstätten,48.18309,14.066862,"unter Christoph Weiß errichtetes Hochgericht, JL,",orte/auerspergwels.html
+Abdecker,Abdecker,48.18339,13.62813,Wasenmeisterhaus im Hausruck,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=7852
+Eggerkapelle,Kleindenkmäler,48.183437,13.96823,"Armesünderkapelle vom nahen Richtberg, Funktion nicht belegt.",
+Kronleiten,Flurnamen,48.18465,12.981279,"Krähen-/Raben= Synonym für Richtstätte, KronLEITEN könnte aus Kraanleiten („Krähenleiten“) entstanden sein – ein Name, der häufig Richtstätten bezeichnet, da sich dort Raben und Krähen sammelten.",
+Todengraberhäusl,Galgenhäuser,48.1848,14.08349,"Nähe Auerspergisches Blutgerüst, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=27161
+Wasenhofstatt,Abdecker,48.18561,14.69456,"Wasenhofstatt, Wohn- und Arbeitsort des Wasenmeisters",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=72302
+Schindergraben,Flurnamen,48.1871,14.06051,WZ 1931-05-29 Seite 17,https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19310529&seite=17&zoom=33&query=%22Schindergraben%22&ref=anno-search
+Schedlhaus,Galgenhaus,48.18775425,14.43577687,,
+Hochgericht Haag,Richtstätten,48.18915,13.62177,,
+Schedlberg,Flurnamen,48.19028615,14.43989224,,
+Abdeckerhaus in Dopplgraben,Abdecker,48.19539,13.9897,"Abdecker- oder Wasenmeisterhaus, heute Reitstall",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=24291
+Richtstätte Hasenufer,Richtstätten,48.19668,14.22422,"in der Schranne wurde enthauptet, auf dem Haidlein bey dem Chreuz ei die Stras hinein zum Traunufer wurde gerädert und gebrannt",
+Galgen Pöchlarn,Richtstätten,48.197039,15.22911,"südl. der Stadt auf der Galgenleiten, JL, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1691060.1200520245%2C6138891.974295995%2C1699054.9554792272%2C6141254.356201434&map-list=1&layers=163%2C165
+Rabensteinerhäusel,Galgenhäuser,48.19775,14.22141,"Krähen-/Rabenstein = Synonym für Richtstätte, Kronstein dürfte aus Kraan- oder Rabenstein („Krähenstein“) entstanden sein – ein Name, der häufig Richtstätten bezeichnet, da sich dort Raben und Krähen sammelten.",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=91121
+Schedlhaus,Galgenhaus,48.19979243,14.45388879,,
+Abdeckerhaus Waasen,Abdecker,48.20055,13.176888,Wasenmeister,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=37068
+Wasenmeisterhaus,Abdecker,48.2007,14.10826,"FK, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=27473
 Wasenstatt Waasen,Abdecker,48.20113,13.17138,Waasenstadt mit Haus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=36912
-Wasenstatt am Hundsbugel,Abdecker,48.34845,13.44791,"Wasenstatt am Hundsbugl, JL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43828
-Galgenleiten,Flurnamen,48.51157,13.721539,"Galgenleithen, FK Franziszeischder Kataster",https://maps.arcanum.com/de/map/cadastral/?bbox=1525035.8369675754%2C6191441.481777993%2C1529392.7475798302%2C6193158.926257276&map-list=1&layers=3%2C4
-Gallnbrunn,Flurnamen,47.97892,13.51863,Gallabrunn,
-Hangern,Flurnamen,48.60448,13.819,"Hanging, JL, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1534354.0951156863%2C6205652.0839706985%2C1542293.9914288088%2C6210376.847781575&map-list=1&layers=163%2C165
-Galgenberg,Flurnamen,48.62489,14.03329,Dieser Ort hat dem Pfleggericht Lichtenau als Richtstätte gedient (Tafel vor Ort),"https://www.komoot.com/de-de/plan/tour/d09AuXeYgDWGSc=FveABNMhk8gA/@48.6245498,14.0338068,17.134z?waypoint=hl:3699767"
-Marterl,Kleindenkmäler,48.6249,14.03308,Ein steinernes Marterl mit der Jahreszahl 1668,"https://www.komoot.com/de-de/plan/tour/d09AuXeYgDWGSc=FveABNMhk8gA/@48.6245498,14.0338068,17.134z?waypoint=hl:3699767"
+Radwinkel,Flurnamen,48.20242,12.9707,"Der Flurname könnte auf ein nahe Richtstätte hinweisen, auf der „gerädert“ wurde, „Radscheiben“. JL, FL, FK",https://maps.arcanum.com/de/map/cadastral/?bbox=1441738.980141825%2C6139851.443103662%2C1446095.89075408%2C6141568.887582945&map-list=1&layers=3%2C4
+Abdecker Wildenau,Abdecker,48.203,13.308109,Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=39894
+Hochgericht Enns 2,Richtstätten,48.20633,14.49876,Landgericht Burg Enns (Landesgerichtskarte 1906),
+Rothenbuch,Flurnamen,48.208,12.9671,"Eine „Rotbuche“ könnte ursprünglich „Ruotbuche“, also die „Rechtsbuche“ gewesen sein. JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1439226.586063717%2C6139159.299817597%2C1447940.4072882272%2C6142594.188776162&map-list=1&layers=163%2C165
+Abdecker Traun,Abdecker,48.21117,14.215525,,
+Abdecker Gallspach,Abdecker,48.211308,13.80722,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=17307
+Hochgericht Enns,Richtstätten,48.2166,14.445084,"Hochgericht Kristein, Karte aus dem Jahr 1655, ""Justitia""<br><img src='bilder/Kristein_Richtstätte_1655.jpg' alt='1655' style='width:260px;border-radius:8px;margin-top:6px;'>",
+Wasenmeister,Abdecker,48.217381,13.49049,"Wasenmeisterhaus, Wasenstatt in der Etz",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=45870
+Scheiben,Flurnamen,48.21958,14.47811," „Scheiben“ könnte auf einen Ort hinweisen, an dem „gerädert“ wurde, also der Ort der „Radscheiben“.",
+Galgen,Richtstätten,48.223,12.9959,"Hugo von Preen fand hier mehrere verscharrte Leichen (Quelle: Bundwerk, 2013 Seite 125)",
+Abdecker Ried,Abdecker,48.224703,13.4413,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43558
+Galgen Enns,Richtstätten,48.22486,14.48168,"Stadtgericht Enns, 1781 erwähnt",
+Galgenberg,Richtstätten,48.226336,14.76705,FK Franziszeischder Kataster,https://maps.arcanum.com/de/map/cadastral/?bbox=1643135.5984826116%2C6144232.849754936%2C1644224.8261356754%2C6144662.210874756&map-list=1&layers=3%2C4
+Abdecker Grein,Abdecker,48.227424,14.849469,Abdeckherhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=75516
+Gerichtsfeld,Flurnamen,48.2309,15.136916,FK Franziszeischder Kataster,https://maps.arcanum.com/de/map/cadastral/?bbox=1682994.6591130998%2C6144851.955614676%2C1686992.076826701%2C6146033.146567396&map-list=1&layers=3%2C4
+Galgenkreuz (Richtkreuz),Kleindenkmäler,48.23106,14.874974,Inschrift: ehem. Richtstätte,https://www.ooegeschichte.at/forschung/kleindenkmal/110637
+Galgen unter Edla,Richtstätten,48.23107,15.13862,JL,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1678650.2594911144%2C6143202.67178695%2C1694639.93034552%2C6147927.435597827&map-list=1&layers=163%2C165
+Galgen,Richtstätten,48.23132,14.875255,Verschiedene historische Quellenangaben bezeugen den Ort dieser Richtstätte östlich von Grein.,https://www.ooegeschichte.at/forschung/kleindenkmal/110637
+Abdeckerei an Hart,Abdecker,48.231808,14.767347,Abdeckerei an Hart,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=73857
+Wasenmeister in Ried,Abdecker,48.23219,13.47606,Wasenmeister in Ried,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=45059
+Galgen Werfenstein,Richtstätten,48.23376,14.88581,Richtstätte der Herrschaft Werfenstein,
+Abdecker Grein,Abdecker,48.235775,14.839206,Diener- oder Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=75386
+Abdecker Parz,Abdecker,48.239741,13.85498,,
+Pranger Mauthausen,Pranger,48.24075,14.51704,"stand ursprünglich gegenüber dem Bräuhaus, 1583",https://www.donauregion.at/mauthausen-sehenswertes/oesterreich-poi/detail/430029165/pranger.html
+Galgen,Richtstätten,48.24353,14.5116,Die Hochgerichtsbarkeit in Mauthausen wurde 1446 durch ein Privileg Ks. Fridrich III bestätigt. Siehe auch Link Seite 10-11,https://www.yumpu.com/de/document/read/7491578/1294-mb-mauthausen
+Wasenmeister Langholzfeld,Abdecker,48.24587,14.242898,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=28814
+Galgen Tollet,Richtstätten,48.24817,13.79384,"In der Nähe befindet sich das Marterl, das an die letzte Hinrichtung 1739 erinnern soll",https://www.ooegeschichte.at/ausstellungen/glaube-aberglaube-gelehrtenmagie/geister-und-gespenster/tolleter-schlossgeist
+Wasenmeisterhaus,Abdecker,48.24965,13.79975,Grundherrschaft: Tollet Amt Kastlinged,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=16966
+Schwarzes Kreuz,Kleindenkmäler,48.2499,14.608437,"Burgfriedsgrenze, hier wurden die Delinquenten dem Landgericht Schwertberg übergeben",https://www.yumpu.com/de/document/read/67294000/grenzuberschreitende-kleindenkmalforschung-oberosterreich-sudbohmen-die-roten-kreuze-rechtsaltertumer-aus-der-zeit-der-rodungen-durch-die-babenberger-und-fruhen-habsburger-band-2
+Pranger Perg,Pranger,48.25,14.6342,"1583 errichtet, Pagstein und Halseisen befinden sich im Heimathaus-Stadtmuseum Perg",https://www.ooegeschichte.at/forschung/kleindenkmal/265346
+Galgen,Richtstätten,48.25164,14.60041,"Galgen auf einem Hügel (Mühlberg) bei den beiden Galgenhäusln, 1878 Galgenfundament freigelegt",https://de.m.wikipedia.org/wiki/Datei:Perg-Ober%C3%B6sterreich-Alte-Donaustrasse-B3c-Nischenblockpfeiler.JPG
+Abdecker Hinterndobl,Abdecker,48.25603,13.63367,Wasenmeisterhaus in Limberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=8127
+"Häusl im Radl, Galgenwieshäusl",Galgenhäuser,48.256107,14.57516,Galgenwieshäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=69339
+Wasenmeister Pichling,Abdecker,48.2567,14.36506,Wasenmeisterhaus in der Oyden,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=96230
+Galgen,Richtstätten,48.25679,13.06835,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1453275.3298581934%2C6148640.496814556%2C1457637.0177847163%2C6150357.941293839&map-list=1&layers=163%2C165
+Abdecker Scharlinz,Abdecker,48.26017,14.29494,,
+Galgenberger,Galgenhäuser,48.2663,14.9509,genaue Lage unbekannt,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1660073.7122402594%2C6149940.563554536%2C1668797.0880933052%2C6153375.4525131015&map-list=1&layers=163%2C165
+Abdecker Linz,Abdecker,48.267593,14.32091,,
+Schwerdtmühle,Flurnamen,48.268452,14.694436,"Rechts-/Symbolbezug zum Hochgericht (möglich, aber Nachweis nötig)",
+Hochgericht Münzbach,Richtstätten,48.26935,14.70229,"Herrschaft Windhaag, Galgenbüchel, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1636350.1080168313%2C6151064.089774319%2C1638530.9519800926%2C6151922.81201396&map-list=1&layers=here-aerial%2C163%2C165
+Gericht Thürnau,Richtstätten,48.27037,14.166343,"Richtstätte LG Hartheim oder Donautal ""Hangerholz"", JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1575337.3197745667%2C6151041.570472808%2C1579699.0077010896%2C6152759.014952091&map-list=1&layers=here-aerial%2C163%2C165
+Galgenberg,Flurnamen,48.27087,14.94194,Quelle?,
+Galgen Waldhausen,Richtstätten,48.2709,14.9501,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1662068.2409470766%2C6151370.174849183%2C1666429.9288735995%2C6153087.619328466&map-list=1&layers=163%2C165
+Abdecker Schwertberg,Abdecker,48.27315,14.58488,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=69675
+Richtstätte,Richtstätten,48.27347,14.31395,"ab 1820, zu den 2 Kreuzen an der Gabelung der Reichsstraße, zwischen B1 und Brunnenfeld",https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&query=%22Galgenplatz%22&ref=anno-search&seite=29
+Abdecker,Abdecker,48.273477,14.167726,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=28169
+Pranger Neumarkt,Pranger,48.273532,13.72773,Im Rahmen der Feiern zum 800 Jahr-Jubiläum stellte die Gemeinde die Pestsäule wieder auf.,https://www.neumarkt-hausruckkreis.at/Kapitell_des_ehemaligen_Prangers
+Wasenstatt,Abdecker,48.27581,13.45121,"Wasenstat, Abdecker an der Au, JL, FL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=44007
+Calvariberg,Flurnamen,48.2778493,13.73367132,,
+Dumschedlhaus,Galgenhaus,48.28786041,14.3297765,,
+Gallenberg,Flurnamen,48.2948,14.03621,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1560733.0066127202%2C6154745.420482439%2C1565094.6945392431%2C6156462.864961722&map-list=1&layers=163%2C165
+Abdecker Kallham,Abdecker,48.29724,13.730221,Wasenmeisterhaus im Hochholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=12966
+Abdecker Luftenberg,Abdecker,48.29857,14.42436,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64950
+Schedlhof,Galgenhaus,48.2988315,14.6806062,,
+Rad,Flurnamen,48.30319,14.03209,Rathäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=26335
+Galgen am Freinberg,Richtstätten,48.30378,14.26456,"Galgenberg, Galgenleithen samt Henkerleiten",https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&seite=28&zoom=33&query=%22Galgenplatz%22&ref=anno-search
+Gollingerfeld,Flurnamen,48.304188,14.02763,FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1559302.8492989975%2C6156866.889225931%2C1563664.5372255205%2C6158584.333705214&map-list=1&layers=3%2C4
+Galgenhof Landgericht Linz,Richtstätten,48.30549,14.29215,"Eine besondere Bedeutung erlangte der „Galgenhof“ des Landgerichts in der Zeit von 1934–38, Ständestaatregime.",https://afo.at/medien/publikationen/nachsatz-9/nachsatz-9eteil2.pdf
 Richtstätte Linz,Richtstätten,48.305921,14.2866,Richtstätte und Pranger am Linzer Hauptplatz,
+Galgen,Richtstätten,48.3062,14.350504,"in der Nähe des Stettenhofes, LG Riedmark-Steyregg",
+Abdecker Hochstraß,Abdecker,48.30737,14.53731,Abdeckerhäusl in Puchholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=68419
+Schedlberg,Flurnamen,48.307812,14.60489628,,
+Schedlbergerhäusel,Galgenhaus,48.31001763,14.25793031,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Schedlweber,Galgenhaus,48.310238,14.01824969,,
+Hochgericht Eferding,Richtstätten,48.31072,13.99402,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1557013.201636792%2C6157939.08684802%2C1559194.0456000532%2C6158797.809087661&map-list=1&layers=163%2C165
+Schedlmayergut,Galgenhaus,48.3113795,14.6613019,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Galgen am Ochsenzagl,Richtstätten,48.31263,14.299538,"am sog. Ochsenzagl, heute k.k. Tabakfabrik",
+Galnbölksölden,Galgenhäuser,48.31274,13.667143,Galnbölksölden,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=51720
+Gollenbuch,Flurnamen,48.31315,13.6455,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1517073.3812459854%2C6157822.694350348%2C1521435.0691725083%2C6159540.138829631&map-list=1&layers=163%2C165
+Schedlbergmühle,Flurnamen,48.31364615,14.60828537,,
+Oberschedlbergergut,Galgenhaus,48.31477308,14.6084083,,
+Rotes Kreuz,Kleindenkmäler,48.322972,15.2965,"Rotes Kreuz Neusiedl am Feldstein. Man erzählt von der wilden Jagd, die über den Bergrücken fegt, einer Dienstmagd die dort oben ums Leben kam, ihren Grasbinkel verlor und am Weg, der drüben nach Heiligen Blut führt, gefunden wurde. ",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
 Galgenplatz Heiljam,Richtstätten,48.3239,14.29671,heute erinnert noch eine Wegsäule an diese alte Richtstätte,https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&seite=28&zoom=33&query=%22Galgenplatz%22&ref=anno-search
 Geißelsäule Heilham,Kleindenkmäler,48.32396,14.296821,diese Wegsäule aus dem Jahre 1660 erinnert an eine alte Richtstätte,https://stadtgeschichte.linz.at/denkmal/default.asp?action=denkmaldetail&id=1125
 Wolfenkreuz,Flurnamen,48.32396,14.2901,FL,https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1588437.013194758%2C6160457.333942323%2C1596412.7393648895%2C6162819.715847761&map-list=1&layers=6
-Wolfenkreuz,Kleindenkmäler,48.143805,13.62665,eigentlich ein Marien-Bildstöckl,https://www.ooegeschichte.at/media/migrated/bibliografiedb/hbl1973_1_2_57-80.pdf
-Galgen am Freinberg,Richtstätten,48.30378,14.26456,"Galgenberg, Galgenleithen samt Henkerleiten",https://anno.onb.ac.at/cgi-content/anno?aid=wez&datum=19311030&seite=28&zoom=33&query=%22Galgenplatz%22&ref=anno-search
-Galgen Pöchlarn,Richtstätten,48.197039,15.22911,"südl. der Stadt auf der Galgenleiten, JL, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1691060.1200520245%2C6138891.974295995%2C1699054.9554792272%2C6141254.356201434&map-list=1&layers=163%2C165
-Galgen unter Edla,Richtstätten,48.23107,15.13862,JL,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1678650.2594911144%2C6143202.67178695%2C1694639.93034552%2C6147927.435597827&map-list=1&layers=163%2C165
-Gerichtsfeld,Flurnamen,48.2309,15.136916,FK Franziszeischder Kataster,https://maps.arcanum.com/de/map/cadastral/?bbox=1682994.6591130998%2C6144851.955614676%2C1686992.076826701%2C6146033.146567396&map-list=1&layers=3%2C4
-Galgenfeld Rastenfeld,Flurnamen,48.57842,15.31766,FK Franziszeischder Kataster,https://maps.arcanum.com/de/map/cadastral/?bbox=1703443.9150086644%2C6203015.304232853%2C1707441.3327222655%2C6204196.495185574&map-list=1&layers=3%2C4
-Bildstock beim Gerichtsbühel,Kleindenkmäler,48.56621,15.33886,"Am Gerichtsbühel, wo die Wege von Marbach und Rastenberg gegen Rastenfeld zusammentreffen, stand der Galgen und ist noch der Bildstock mit dem Bilde der schmerzhaften Gottesmutter vorhanden, wo die Verurteilten ihr letztes Gebet sprechen konnten. Schon 1456 wird das Galgenfeld (ursprünglicher Richtplatz am alten Lichtenfelser Wege) erwähnt und 1563 der Acker an der Marter beim Gericht.",https://www.marterl.at/suche/detail?oid=8302&cHash=2ee566950ea5ea0cb1274b5633232693
-Hussitenkreuz,Kleindenkmäler,48.50501,15.51686,in der Nähe des Pfeilers stand der gemauerte Galgen der Herrschaft von Gföhl die die Höhere Gerichtsbarkeit inne hatte,https://www.flickr.com/photos/112388998@N03/51280055247
-Galgenhügel,Richtstätten,48.50481,15.51456,Das Hochgericht befand sich zentral im Landgericht Gföhl gelegen.,https://www.lefnaer.com/recht/galgen_Galgenreste%20Gfoehl.html
-Galgen Raxendorf,Richtstätten,48.3374,15.28507,Jl,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1698204.4492917645%2C6162303.506049303%2C1707087.8651727822%2C6164928.640239472&map-list=1&layers=163%2C165
-Rotes Kreuz,Kleindenkmäler,48.322972,15.2965,"Rotes Kreuz Neusiedl am Feldstein. Man erzählt von der wilden Jagd, die über den Bergrücken fegt, einer Dienstmagd die dort oben ums Leben kam, ihren Grasbinkel verlor und am Weg, der drüben nach Heiligen Blut führt, gefunden wurde. ",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
-Rotes Kreuz Drosendorf,Kleindenkmäler,48.862366,15.644742,"am Galgenberg, 550m östlich vom Hochgericht",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
-Hochgericht Drosendorf,Richtstätten,48.864163,15.63707,JL und FL und FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1740037.3783383416%2C6251228.168046858%2C1742258.232308596%2C6251884.451594401&map-list=1&layers=3%2C4
-Galgenleiten,Flurnamen,48.86356,15.63469,FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1736328.429369287%2C6249950.238883357%2C1745211.8452503048%2C6252575.373073525&map-list=1&layers=3%2C4
-Rotes Kreuz Weitra,Kleindenkmäler,48.69555,14.90767,"etwa 450m westlich vom Galgenberg, an der Grenze. Delinquenten-Übergabestelle?",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
-Marienkapelle am Galgenberg,Kleindenkmäler,48.62471,14.032791,"Armesünderkapelle, hier sprachen die Delinquenten ihr letztes Gebet",
-Gallenleiten,Flurnamen,47.90632,13.47173,,
-Kronberg,Flurnamen,47.90048,13.48753,,
-Arme-Seelen-Taferl,Kleindenkmäler,47.872124,13.33267,"Erinnert an die Hinrichtung des damaligen Eigentümers des Handlbauerngutes, er wurde am 18. 12. 1662 am Marktplatz in Mondsee geköpft",https://www.ortedesglaubens.at/mondsee/orte-des-glaubens/oesterreich-poi/detail/430022048/arme-seelen-taferl.html
-Richtstätte Mondsee,Richtstätten,47.855808,13.35,Am 18. 12. 1662 wurde am Marktplatz Mondsee die Richtstätte errichtet. 11 Bauern wurden verurteilt – 2 wurden geköpft (Handlbauer und ein weiterer Bauer der Region),https://www.salzkammergut.at/oesterreich-poi/detail/430022048/arme-seelen-taferl.html
-Galgenhof Landgericht Linz,Richtstätten,48.30549,14.29215,"Eine besondere Bedeutung erlangte der „Galgenhof“ des Landgerichts in der Zeit von 1934–38, Ständestaatregime.",https://afo.at/medien/publikationen/nachsatz-9/nachsatz-9eteil2.pdf
-Pranger Perg,Pranger,48.25,14.6342,"1583 errichtet, Pagstein und Halseisen befinden sich im Heimathaus-Stadtmuseum Perg",https://www.ooegeschichte.at/forschung/kleindenkmal/265346
-Pranger Hellmonsödt,Pranger,48.43170519,14.29975078,"Als Zeichen des Rechts wurde am Pranger die Freihand, auch Freyung genannt, ausgesteckt. (heute im Gemeindeamt aufbewahrt). ",https://www.ooegeschichte.at/forschung/kleindenkmal/110916
-Bildstock am Galgenberg,Kleindenkmäler,48.05893309,13.90586479,ein aus zwei Säulenteilen zusammengesetzter Bildstock,https://www.ooegeschichte.at/forschung/kleindenkmal/111373
-Gerichtslinden Waxenberg,Flurnamen,48.47695895,14.1906354,"wahrscheinlich um das Jahr 1650 gepflanzt, als das Land- und Blutgericht Waxenberg in d das Schloss verlegt wurde",https://www.ooegeschichte.at/forschung/kleindenkmal/265199
-Hinrichtungsstätte auf der Ochsenwoad / Kröpflsberg,Richtstätten,48.474785,14.2017746,"der legende nach wurde hier am 10.7.1746 Elisabeth Höfflerin, würthin und Pökhin zu Waldkirchen, durch das Schwert hingerichtet",https://www.ooegeschichte.at/forschung/kleindenkmal/265231
-Gerichtsberg-Kapelle,Kleindenkmäler,48.01698466,13.66274893,"zwischen 1850 - 1885 errichtet, in der Nähe des Gerichtsplatzes, sonst kein direkter Zusammenhang",https://www.ooegeschichte.at/forschung/kleindenkmal/282915
-Hackerschädl,Flurnamen,47.917275,14.454013,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schedlgut,Galgenhaus,47.93467805,14.16557011,,
-Schedlwirtshaus,Galgenhaus,47.9697483,14.2658452,,
-Calvariberg,Flurnamen,48.2778493,13.73367132,,
-Schedlmayerhäusl,Galgenhaus,48.3253745,14.39718067,,
-Schedlgut,Galgenhaus,48.39441801,13.75837963,,
-Schedelmaiergut,Galgenhaus,48.4922,14.509653,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schedelgut,Galgenhaus,48.01118572,14.29856536,,
-Schedlbergerhaus,Galgenhaus,48.03475408,14.20859226,,
-Schedlweber,Galgenhaus,48.310238,14.01824969,,
-Schedelhaus,Galgenhaus,47.96431962,14.25584407,,
-Schedlgut,Galgenhaus,48.01100741,13.44470734,,
-Schedlberg,Flurnamen,48.00549114,14.18286715,,
-Schedlhaus,Galgenhaus,48.55476375,14.35583338,,
-Schedlhäusl,Galgenhaus,48.5426989,14.3827744,,
-Schedlhof,Galgenhaus,48.04280102,13.90692649,,
-Schedlhof,Galgenhaus,48.0111933,14.2978634,,
-Schedlhub,Galgenhaus,48.04968231,13.1477393,,
-Schedlleitnerhäusl,Galgenhaus,48.02959951,14.33518177,,
-Schedlmayergut,Galgenhaus,48.3113795,14.6613019,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schedlsölden,Galgenhaus,47.94802526,14.1230675,,
-Schedlaignersölde,Galgenhaus,48.07743788,14.38074775,,
-Schädlbach,Flurnamen,47.97333003,14.31044132,,
-Schedlberger,Galgenhaus,47.97380595,14.30220384,,
-Schedlleiten,Galgenhaus,47.9743223,14.3034325,,
-Aschedlhofstatt,Galgenhaus,48.51076684,14.01316223,,
-Dumenschedlgut,Galgenhaus,48.11063934,14.36201216,,
-Dumschedlhaus,Galgenhaus,48.28786041,14.3297765,,
-Schedlgut,Galgenhaus,48.093308,13.83960665,,
-Schedlberg,Flurnamen,48.19028615,14.43989224,,
-Schedlbachmühle,Flurnamen,47.97341384,14.31170931,,
-Unterschedlkogelgut,Flurnamen,47.94443284,14.14565485,,
-Kleinschedlgut,Galgenhaus,48.3948744,13.75778298,,
 Schedlmayrgut,Galgenhaus,48.32466512,14.39824774,,
+Schedlmayerhäusl,Galgenhaus,48.3253745,14.39718067,,
+Wasenstatt Obernberg am Inn,Abdecker,48.32775,13.344176,Simon Ehgartnerische Behausung und Wasenstatt,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=40835
 Schedelhof,Galgenhaus,48.3303811,14.4036362,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schedlbergerhäusl,Galgenhaus,48.3993731,13.7534237,,
-Oberschedlbergergut,Galgenhaus,48.31477308,14.6084083,,
-Oberschedlkogl,Galgenhaus,47.9440053,14.1459666,,
-Strassergut bei Schedlberg,Flurnamen,48.044229,14.121718,,
-Schedlberg,Flurnamen,48.040523,14.112656,,
-Schedlgut,Galgenhaus,48.40791794,13.78684568,,
-Schedelbergerstraßergut,Flurnamen,48.039551,14.1155676,,
-Schedlgut,Galgenhaus,48.13127124,13.79635859,,
-Schedlgut,Galgenhaus,48.07196519,14.45075127,,
-Schedlgut,Galgenhaus,48.09250297,13.84103911,,
-Schädelberg,Flurnamen,47.93835706,14.3664077,,
-Schedelberg,Flurnamen,47.936529,14.103498,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schedlbauer,Galgenhaus,47.84115825,14.15992149,,
-Schedlberg,Flurnamen,47.99562006,14.27219799,,
-Schedlberg,Flurnamen,48.307812,14.60489628,,
-Schedlberg?,Flurnamen,48.09047814,14.26296505,,
-Schedlbergergut,Galgenhaus,48.39898326,13.75857894,,
-Schedlhaus,Galgenhaus,47.96945992,14.26158464,,
-Schedlhammergut,Galgenhaus,48.349334,13.7395038,,
-Schedlhaus,Galgenhaus,48.18775425,14.43577687,,
-Schedlhaus,Galgenhaus,48.19979243,14.45388879,,
-Schedlhof,Galgenhaus,48.2988315,14.6806062,,
+Wasenmeister Strohheim,Abdecker,48.33302,13.98152,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=24077
 Schedlberger,Galgenhaus,48.3352478,14.1947899,,
-Schedlbergerhaus,Galgenhaus,48.404653,14.296142,,
-Schedlbergerhäusel,Galgenhaus,48.31001763,14.25793031,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schedlbergmühle,Flurnamen,48.31364615,14.60828537,,
-Schedlgut,Galgenhaus,47.9850958,14.33299931,,
-Schedlhof,Galgenhaus,47.9949543,14.29184689,,
-Schedlbergersölden,Galgenhaus,48.062294,14.13871,,
+Galgen Raxendorf,Richtstätten,48.3374,15.28507,Jl,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1698204.4492917645%2C6162303.506049303%2C1707087.8651727822%2C6164928.640239472&map-list=1&layers=163%2C165
+Richtstätte Prandegg-Zellhof,Richtstätten,48.344583,14.707659,Die Richtstätte LG Prandegg (später LG Zellhof) mit Sitz in Zellhof befand sich in der Nähe des Geroldslehnergutes,
+Pranger Peuerbach,Pranger,48.34535,13.77313,Die Granitsäule stammt aus dem Jahr 1571 und war ursprünglich vor dem Pflegerhaus am Rathausplatz aufgestellt,https://www.oberoesterreich.at/oesterreich-poi/detail/170528/pranger.html
+Richtstätte und Abdecker,Richtstätten,48.34665,14.420061,"ab 1756 (vorher Gugalea), Wasenmeisterhäusl im untern Gries",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64849
+Wasenmeister Raab,Abdecker,48.347594,13.637707,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1514469.4089832038%2C6162907.077320589%2C1523183.230207714%2C6166341.966279155&map-list=1&layers=163%2C165
+Wasenstatt am Hundsbugel,Abdecker,48.34845,13.44791,"Wasenstatt am Hundsbugl, JL",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43828
+Schedlhammergut,Galgenhaus,48.349334,13.7395038,,
+Pranger Bad Zell,Pranger,48.34987,14.669471,"Prangersäule am Marktplatz aus dem Jahr 1574. Auf der Säule stehend eine Statue in Ritterrüstung, Schwert und Schild (darauf das Wappen der Jörger von Tollet) – das einzig erhaltene Prangermandl Oberösterreichs.",https://de.wikipedia.org/wiki/Liste_der_denkmalgesch%C3%BCtzten_Objekte_in_Bad_Zell
+Richtstätte am Galgenbichl,Richtstätten,48.34991,14.57634,"Richtstätte von Reichenstein, Ziegelreste? Halmenberg.",https://www.zobodat.at/pdf/JOM_141a_0229-0257.pdf
+Hochgericht Salletwald,Richtstätten,48.35144,13.71979,Bis 1779 wurden die Verurteilten auf einem der drei Galgen im Salletwald gehängt und Frauen an der Frauenköpfstelle enthauptet,"https://www.nachrichten.at/oberoesterreich/innviertel/schaerding/Als-Maenner-noch-gehaengt-und-Frauen-gekoepft-wurden;art14856,287582"
+Frauenköpfstelle Salletwald,Richtstätten,48.35177,13.71792,Bis 1779 wurden die Verurteilten auf einem der drei Galgen im Salletwald gehängt und Frauen an der Frauenköpfstelle enthauptet,"https://www.nachrichten.at/oberoesterreich/innviertel/schaerding/Als-Maenner-noch-gehaengt-und-Frauen-gekoepft-wurden;art14856,287582"
+Galgenbichl,Flurnamen,48.35283,14.67585,bereits 1391 in einem Regensburger Lehenskodex genannt (FK),
+Dreifaltigkeitskapelle beim Galgenbühel,Kleindenkmäler,48.35333,14.677876,Spätbarocke Kapelle aus 1800 mit Wandmalereien und Heiligenfiguren hll. Sebastian und Leonhart(?),https://de.wikipedia.org/wiki/Liste_der_denkmalgesch%C3%BCtzten_Objekte_in_Bad_Zell
+Wasenmeister Andorf,Abdecker,48.35391,13.568909,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=48993
+Steininger beim Galgenbichl,Galgenhäuser,48.35419,14.68481,"Der Steiniger musste Leiter und Holz zum Galgen bereitstellen, dafür wird ihm das Grundstück beim Galgen als Viehweide überlassen",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=72023
+Galgen Bad Zell,Richtstätten,48.35424,14.6812,"Markt Zell hatte nicht nur die Niedere Gerichtsbarkeit inne, sondern auch den Blutbann",
+Galgenmoos,Flurnamen,48.356365,13.718362,,
+Richtstätte Gugalea,Richtstätten,48.3631,14.419377,"1272 - 1756 Richtstätte Markt Gallneukirchen, Steinsäule Penkenberg",https://www.meinbezirk.at/urfahr-umgebung/c-lokales/penkenberg-marterl-wieder-am-urspruenglichen-ort_a1600211
+Ramesberger,Galgenhäuser,48.364,14.41221,Krähen-/Rabenberg = Synonym für Richtstätte,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=64595
+Abdeckerhaus Hagenberg,Abdecker,48.36494,14.504952,Abdeckerhaus am Zlaim,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67226
+Wasenmeisterjaus Peuerbach,Abdecker,48.36538,13.787809,Wasenmeisterhaus in der Leithen,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=16262
+Abdecker Bad Mühllacken,Abdecker,48.3712,14.0754,"Feldmetzgerhäusl in der Waid, Wasenmaisterhaus",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=58168
+Rotes Kreuz,Kleindenkmäler,48.37781,14.02188,,
+Hochgericht,Richtstätten,48.380144,14.02425,"Landgericht Schaunburg, Fundament gut erhalten",
+beim Galgenholz,Flurnamen,48.38019,14.01743,,
+Wasenmeister Laufenbach,Abdecker,48.38673,13.51557,Abdeckersölden und Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=46903
+Galgenweberhäusl,Galgenhäuser,48.39396,14.295556,"Wildberg 39, Haslgraben 13",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62634
+Schedlgut,Galgenhaus,48.39441801,13.75837963,,
+Kleinschedlgut,Galgenhaus,48.3948744,13.75778298,,
+Galgen,Richtstätten,48.39501,14.29623,"Nähe Schloss Wildberg, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1590121.1488223206%2C6170735.200556368%2C1594482.8367488435%2C6172452.645035651&map-list=1&layers=163%2C165
+Schedlbergergut,Galgenhaus,48.39898326,13.75857894,,
+Schedlbergerhäusl,Galgenhaus,48.3993731,13.7534237,,
+Schedlbergerhaus,Galgenhäuser,48.40465,14.296142,Wildberg 15,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62641
+Galgenlüsse,Flurnamen,48.4054,14.833204,Der Flurname deutet auf den Galgen hin,https://www.ooegeschichte.at/media/migrated/bibliografiedb/hbl1993_1_50-58.pdf
+Schedlgut,Galgenhaus,48.40791794,13.78684568,,
+Pranger Hellmonsödt,Pranger,48.43170519,14.29975078,"Als Zeichen des Rechts wurde am Pranger die Freihand, auch Freyung genannt, ausgesteckt. (heute im Gemeindeamt aufbewahrt). ",https://www.ooegeschichte.at/forschung/kleindenkmal/110916
+Wasenmeisterhäusl Unterweißenbach,Abdecker,48.43842,14.77998,Wasenmeisterhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=74024
+Abdecker,Abdecker,48.438652,14.31617,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62975
+Galgen,Richtstätten,48.44233,14.0528,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1562663.7537159151%2C6180031.820622208%2C1567025.441642438%2C6181749.265101491&map-list=1&layers=163%2C165
+Pranger Kefermarkt,Pranger,48.443034,14.538623,um ca. 1479 errichtet,https://de.m.wikipedia.org/wiki/Datei:Pranger_Kefermarkt.JPG
+Pranger St. Leonhard,Pranger,48.44331,14.67775,"Schlanker Obelisk, bezeichnet 1759, daneben erneuerter mast mit Schwertarm auf originalem Stein, der vermutlich zur Aufnahme der Marktfreihe diente.",https://de.m.wikipedia.org/wiki/Datei:Sankt_Leonhard_Pranger.JPG
+Galgenauerhäusl,Galgenhäuser,48.44417,14.053463,"Häusl in der Gallnau, Galgenauerhäusl",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=57657
+Totengraberhäusl,Abdecker,48.456375,13.4494,Totengraberhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43870
+Galgenau,Flurnamen,48.45711,14.03629,,
+Abdecker,Abdecker,48.457391,13.44967,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=43882
+Hochgericht Oberneukirchen,Richtstätten,48.45927,14.226136,"Zwei dreischläfrige Galgen nebeneinander in JL eingetragen, Herrschaft Lobenstein",https://www.ooegeschichte.at/ausstellungen/schande-folter-hinrichtung/oertliche-und-sprachliche-tradition/richtstaettenarchaeologie
+Wasenmeister,Abdecker,48.45944,14.52178,"Wasenmeisterhäusl, altes",https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67739
+Galgen Weinberg,Richtstätten,48.46515,14.5,"Landgericht Weinberg, 1638 belegt, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1612699.4487627535%2C6183532.564882186%2C1617061.1366892764%2C6185250.009361469&map-list=1&layers=163%2C165
+Ganglsiedlung,Flurnamen,48.46563,14.50115,,
+Abdecker,Abdecker,48.46597,14.52529,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67873
+Galgenbach,Flurnamen,48.466931,14.4967,OSM,https://www.openstreetmap.org/#map=17/48.462998/14.502795
+"Richtstätte ""Drei Linden"" in Hofkirchen",Richtstätten,48.467287,13.821708,Richtplatz des Hochgerichts Marsbach. Letzte Hinrichtung 1848,https://data.matricula-online.eu/de/oesterreich/oberoesterreich/hofkirchen-im-muehlkreis/306%252F1848/?pg=3
+Scheibe,Flurnamen,48.46751,13.819978," Der Flurname weist hier ziemlich sicher auf die nahe Richtstätte hin auf der „gerädert“ wurde, „Radscheiben“.",
+Galgenau,Flurnamen,48.46874,14.49939,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1612699.4487627535%2C6183532.564882186%2C1617061.1366892764%2C6185250.009361469&map-list=1&layers=163%2C165
+Wasenmeister,Abdecker,48.469944,13.819502,Abdeckerhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52761
+Pranger Lasberg,Pranger,48.47088,14.53955,Entstehung: 1600 - 1700,https://de.m.wikipedia.org/wiki/Datei:Lasberg_Pranger.JPG
+Galgen Weitersfelden,Richtstätten,48.47133,14.706111,"Landgericht Harrachstal, gut erhalten, 1570 erbaut",https://www.muehlviertel.at/oesterreich-poi/detail/430027418/galgenbuehel.html
+Galgen Schärding,Richtstätten,48.47391,13.444945,Gericht am Kreuzberg,
+"Richtstattweg, Kreuzberg",Flurnamen,48.47425,13.44766,,
+Hinrichtungsstätte auf der Ochsenwoad / Kröpflsberg,Richtstätten,48.474785,14.2017746,"der legende nach wurde hier am 10.7.1746 Elisabeth Höfflerin, würthin und Pökhin zu Waldkirchen, durch das Schwert hingerichtet",https://www.ooegeschichte.at/forschung/kleindenkmal/265231
+Gerichtslinden Waxenberg,Flurnamen,48.47695895,14.1906354,"wahrscheinlich um das Jahr 1650 gepflanzt, als das Land- und Blutgericht Waxenberg in d das Schloss verlegt wurde",https://www.ooegeschichte.at/forschung/kleindenkmal/265199
+Pranger Hofkirchen,Pranger,48.48288,13.8106,um 1680 errichtet,https://de.m.wikipedia.org/wiki/Datei:Pranger_Hofkirchen_I.jpg
+Wasenmeister Münzkirchen,Abdecker,48.483471,13.57521,Wasenmeisterhaus vorn Thanraderholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=49369
+Galgen,Richtstätten,48.4877,13.78822,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1533231.9882192889%2C6187062.103172189%2C1537593.6761458118%2C6188779.547651472&map-list=1&layers=163%2C165
+Galgen Arbesbach,Richtstätten,48.49025,14.94654,"gemauerte Säulen aus Bruchstein mit einer Sockelmauer von kreisförmigen Grundriss, sehr gut erhalten",https://www.marterl.at/suche/detail?oid=11703
+Hochgericht Freistadt,Richtstätten,48.49037,14.50452,"Landgericht Freistadt, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1613217.0199677178%2C6187846.538771669%2C1617578.7078942407%2C6189563.983250952&map-list=1&layers=here-aerial%2C163%2C165
+Galgen Rannariedl,Richtstätten,48.49091,13.75848,"Hochgericht des Landgerichts Rannariedl, eine Säule gut erhalten.",https://www.lefnaer.com/recht/galgen_Galgen%20Rannariedl.html
+Arme-Sünder-Kapelle,Kleindenkmäler,48.49131,13.75994,"Fünf Gehminuten vom Galgen, gut erhalten",https://www.lefnaer.com/recht/galgen_Galgen%20Rannariedl.html
+Wasenmeister,Abdecker,48.49216,13.75988,Dienerhaus mit Wasenmeisterei,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52296
+Schedelmaiergut,Galgenhäuser,48.4922,14.509653,Schedelmaiergut,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67277
+Wasenmeisterhäusl im Graben,Abdecker,48.496729,14.013267,Wasenmeisterhäusl im Graben,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=56843
+Wasenmeister Traberg,Abdecker,48.504401,14.21893,Wasenmeisterwerkstatt in Traberg,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=61184
+Galgenhügel,Richtstätten,48.50481,15.51456,Das Hochgericht befand sich zentral im Landgericht Gföhl gelegen.,https://www.lefnaer.com/recht/galgen_Galgenreste%20Gfoehl.html
+Hussitenkreuz,Kleindenkmäler,48.50501,15.51686,in der Nähe des Pfeilers stand der gemauerte Galgen der Herrschaft von Gföhl die die Höhere Gerichtsbarkeit inne hatte,https://www.flickr.com/photos/112388998@N03/51280055247
+Abdeckerhäusel am Mühlholz,Abdecker,48.50762,13.79222,Abdeckerhäusel am Mühlholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=52484
+Aschedlhofstatt,Galgenhaus,48.51076684,14.01316223,,
+Abdecker,Abdecker,48.51096,14.506307,Abdeckerhäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=67119
+Galgen Engelhartszell,Richtstätten,48.51126,13.7205,Nur mehr geringe Spuren (Pfostenlöcher) weisen auf die ehem.Richtstätte auf der Galgenleiten bei Engelhartszell hin.,https://www.lefnaer.com/recht/galgen_Galgenpfostenloecher%20Engelhartszell.html
+Galgenleiten,Flurnamen,48.51157,13.721539,"Galgenleithen, FK Franziszeischder Kataster",https://maps.arcanum.com/de/map/cadastral/?bbox=1525035.8369675754%2C6191441.481777993%2C1529392.7475798302%2C6193158.926257276&map-list=1&layers=3%2C4
+Galgen,Richtstätten,48.52947,14.50541,"hier stand das Galgenmarterl, ein rotes Kreuz. Übergabestelle der Malefizpersonen. In der Nähe stand der Galgen.",
+Abdecker,Abdecker,48.53373,14.36788,,
+Schedlhäusl,Galgenhaus,48.5426989,14.3827744,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Abdecker Rainbach,Abdecker,48.54777,14.470292,,
+Abdecker,Abdecker,48.55023,13.887544,,
+Schedlhaus,Galgenhaus,48.55476375,14.35583338,,
+Bildstock beim Gerichtsbühel,Kleindenkmäler,48.56621,15.33886,"Am Gerichtsbühel, wo die Wege von Marbach und Rastenberg gegen Rastenfeld zusammentreffen, stand der Galgen und ist noch der Bildstock mit dem Bilde der schmerzhaften Gottesmutter vorhanden, wo die Verurteilten ihr letztes Gebet sprechen konnten. Schon 1456 wird das Galgenfeld (ursprünglicher Richtplatz am alten Lichtenfelser Wege) erwähnt und 1563 der Acker an der Marter beim Gericht.",https://www.marterl.at/suche/detail?oid=8302&cHash=2ee566950ea5ea0cb1274b5633232693
+Galgenfeld Rastenfeld,Flurnamen,48.57842,15.31766,FK Franziszeischder Kataster,https://maps.arcanum.com/de/map/cadastral/?bbox=1703443.9150086644%2C6203015.304232853%2C1707441.3327222655%2C6204196.495185574&map-list=1&layers=3%2C4
+Galgenberg,Flurnamen,48.58517,14.55512,"zwischen Windhaag bei Freistadt und Pieberschlag, Galgenberg (JL)",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1619075.4997948513%2C6203773.190582378%2C1623437.1877213742%2C6205490.635061661&map-list=1&layers=163%2C165
+Galgen,Richtstätten,48.585587,14.55269,"zwischen Windhaag bei Freistadt und Pieberschlag, Galgenberg (JL)",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1619075.4997948513%2C6203773.190582378%2C1623437.1877213742%2C6205490.635061661&map-list=1&layers=163%2C165
+Galgen,Richtstätten,48.59837,15.180291,letzte öffentliche Hinrichtung in Zwettl im Jahre 1836,https://zcrux.zwalk.at/galgenkreuz-48-599274-15-180745/
+Hangern,Flurnamen,48.60448,13.819,"Hangern, Hanging",
+Hangern,Flurnamen,48.60448,13.819,"Hanging, JL, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1534354.0951156863%2C6205652.0839706985%2C1542293.9914288088%2C6210376.847781575&map-list=1&layers=163%2C165
+Pranger Leopoldschlag,Pranger,48.615293,14.50338,"Um 1500, achteckige Säule auf Grundplatte mit aufgesetzen Halbkugeln, Halsschloss und Eisenspitze",https://de.m.wikipedia.org/wiki/Datei:Leopoldschlag-Pranger.jpg
+Galgen,Flurnamen,48.61619,14.50262,"Die Flurnamen Galgen im Geiseneggerbühel, Gerichtsholz und Schergengraben auf dem Hussenberg sind im Dorf überliefert.",
+Galgenplatz Peilstein,Richtstätten,48.61946,13.92138,"Im Jahr 1710 wurde das letzte Todesurteil vollstreckt. Auf einem, von einer Steinmauer umgebenen, künstlich angelegten Hügel im Ausmaß von 5x3,5m richtete man den Galgen auf. Heute ist diese ehemalige Richtstätte noch deutlich erkennbar. Sie befindet sich am Beginn des sagenumwobenen Schneidergrabens",http://rat.imareal.sbg.ac.at/streitt/flurnamen/peilstein-galgenplatz-bei-steinberg
+Marienkapelle am Galgenberg,Kleindenkmäler,48.62471,14.032791,"Armesünderkapelle, hier sprachen die Delinquenten ihr letztes Gebet",
+Galgen St. Oswald,Richtstätten,48.62477,14.032994,Richtstätte Pfleggerichts Lichtenau. Beim Straßenbau kam es zu Knochenfunden. Ein steinernes Marterl mit der Jahreszahl 1668 erinnert an die Richtstätte.,
+Galgenberg,Flurnamen,48.62489,14.03329,Dieser Ort hat dem Pfleggericht Lichtenau als Richtstätte gedient (Tafel vor Ort),"https://www.komoot.com/de-de/plan/tour/d09AuXeYgDWGSc=FveABNMhk8gA/@48.6245498,14.0338068,17.134z?waypoint=hl:3699767"
+Marterl,Kleindenkmäler,48.6249,14.03308,Ein steinernes Marterl mit der Jahreszahl 1668,"https://www.komoot.com/de-de/plan/tour/d09AuXeYgDWGSc=FveABNMhk8gA/@48.6245498,14.0338068,17.134z?waypoint=hl:3699767"
+Galgen,Richtstätten,48.6319,15.05372,Fundament eines dreischläfrigen Galgens erhalten<br><img src='bilder/galgenbergnoe.png' alt='Galgenberg zwischen Jagenbach und Rieggers'style='width:260px;border-radius:8px;margin-top:6px;'>,
+Wasenmeister Heinrichsberg,Abdecker,48.640549,13.841254,Wasenmeister,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=53210
+Galgen Aigen-Schlägel,Richtstätten,48.64106,13.9796,"nebenbei fließt der Galgenbach, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1552724.4806603584%2C6212506.597134865%2C1561447.8565134043%2C6215941.486093431&map-list=1&layers=163%2C165
+Scheibenfeld,Flurnamen,48.64412,13.98623," Der Flurname weist hier ziemlich sicher auf die nahe Richtstätte hin auf der „gerädert“ wurde, „Radscheiben“.",
+Ram- oder Landrichterhof,Flurnamen,48.664338,14.99991,"Der Name Ramhof könnte auf ‚Raben‘ zurückgehen – jene Aasvögel, die sich an Galgenplätzen sammelten. In vielen Regionen markierten Flurnamen mit ‚Raben–‘, ‚Rapp–‘ oder ‚Ram–‘ die Nähe zu einer Richtstätte oder Wasenmeisterei. Ob dies auch hier zutrifft, lässt sich erst durch ältere Katasterquellen und Flurnamennachweise klären.",
+Galgenberg Weitra,Flurnamen,48.69392,14.91341,"FL, FK: Gerichtsfeld",https://maps.arcanum.com/de/map/europe-19century-secondsurvey/?bbox=1656407.0236052338%2C6221789.553057569%2C1665290.4394862514%2C6224414.687247737&map-list=1&layers=158%2C164
+Rotes Kreuz Weitra,Kleindenkmäler,48.69555,14.90767,"etwa 450m westlich vom Galgenberg, an der Grenze. Delinquenten-Übergabestelle?",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
+Galgen Kirchberg am Walde,Richtstätten,48.73403,15.07393,"zwei ca. 5m hohe Granitpfeiler, die sich nach oben etwas verjüngen",https://www.kirchbergamwalde.at/Galgen
+Rotes Kreuz Drosendorf,Kleindenkmäler,48.862366,15.644742,"am Galgenberg, 550m östlich vom Hochgericht",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
+Galgenleiten,Flurnamen,48.86356,15.63469,FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1736328.429369287%2C6249950.238883357%2C1745211.8452503048%2C6252575.373073525&map-list=1&layers=3%2C4
+Hochgericht Drosendorf,Richtstätten,48.864163,15.63707,JL und FL und FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1740037.3783383416%2C6251228.168046858%2C1742258.232308596%2C6251884.451594401&map-list=1&layers=3%2C4
+Galgenfeld,Flurnamen,48.93273,15.078816,,
+Galgenfeld,Flurnamen,48.93561,15.0596,,orte/litschau.html
+Antoniusmarterl,Kleindenkmäler,48.93608,15.06169,letzte Gelegenheit für die Delinquenten zu einem Gebet oder gar die Richtstätte selbst?,orte/litschau.html
+Galgen Litschau,Richtstätten,48.936877,15.06555,Der Galgen von Litschau stand auf dem Galgenbühel bei Loimanns.,orte/litschau.html
+Wasenmeister,Abdecker,48.93733,15.091013,,
+Galgenfeld,Flurnamen,48.93929,15.06648,,orte/litschau.html
+Galgenkreuz,Kleindenkmäler,48.94123,15.06792,ein einfaches Steinkreuz aus Granit,orte/litschau.html
+Pranger Litschau,Pranger,48.94422,15.0458,"gut erhaltener Pranger mit Steinkugel, 1688 Mit der Steinkugel (Bagstein) hat es eine besondere Bewandtnis. Der Fachausdruck „Bagstein“ kommt vom mittelhochdeutschen Wort „bagen“ und hat die Bedeutung „zanken, streiten“. Das Herumtragen des Bagsteines war eine typische Frauenstrafe für zanksüchtige Frauen.",orte/litschau.html
