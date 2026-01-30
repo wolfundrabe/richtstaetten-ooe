@@ -175,7 +175,7 @@ Gerichtslinden Waxenberg,Flurnamen,48.47695895,14.1906354,"wahrscheinlich um das
 Gerichtsplatz Schachenwald,Richtstätten,48.08095,14.11687,,
 Gollenbuch,Flurnamen,48.31315,13.6455,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1517073.3812459854%2C6157822.694350348%2C1521435.0691725083%2C6159540.138829631&map-list=1&layers=163%2C165
 Gollingerfeld,Flurnamen,48.304188,14.02763,FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1559302.8492989975%2C6156866.889225931%2C1563664.5372255205%2C6158584.333705214&map-list=1&layers=3%2C4
-Hackerschädl,Flurnamen,47.917275,14.454013,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Hackerschädl,Flurnamen,47.917275,14.454013,am Hochgerichtsberg gelegen,
 Hangern,Flurnamen,48.60448,13.819,"Hangern, Hanging",
 Hangern,Flurnamen,48.60448,13.819,"Hanging, JL, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1534354.0951156863%2C6205652.0839706985%2C1542293.9914288088%2C6210376.847781575&map-list=1&layers=163%2C165
 "Häusl im Radl, Galgenwieshäusl",Galgenhäuser,48.256107,14.57516,Galgenwieshäusl,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=69339
@@ -254,8 +254,8 @@ Rotes Kreuz Drosendorf,Kleindenkmäler,48.862366,15.644742,"am Galgenberg, 550m 
 Rotes Kreuz Weitra,Kleindenkmäler,48.69555,14.90767,"etwa 450m westlich vom Galgenberg, an der Grenze. Delinquenten-Übergabestelle?",https://www.marterl.at/fileadmin/user_upload/Publikationen/Rote_Kreuze_in_Niederoesterreich.pdf
 Rothenbuch,Flurnamen,48.208,12.9671,"Eine „Rotbuche“ könnte ursprünglich „Ruotbuche“, also die „Rechtsbuche“ gewesen sein. JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1439226.586063717%2C6139159.299817597%2C1447940.4072882272%2C6142594.188776162&map-list=1&layers=163%2C165
 Rothhueb,Flurnamen,48.090059,14.114512,"Rothhueb dürfte vom altgermanischen ruot („Recht, Ordnung“) stammen und auf einen Ort hinweisen, an dem einst Recht gesprochen wurde. JL FK, FL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1569540.898961317%2C6120792.805625565%2C1573902.58688784%2C6122510.250104848&map-list=1&layers=163%2C165
-Schädelberg,Flurnamen,47.93835706,14.3664077,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
-Schädlbach,Flurnamen,47.97333003,14.31044132,,
+Schädelberg,Flurnamen,47.93835706,14.3664077,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Schädlbach,Flurnamen,47.97333003,14.31044132,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schandkreuz,Pranger,48.1566,14.0285,Auf dem Stich von Merian aus dem Jahre 1640 (bzw. Vischer 1674) rechts neben der kaiserlichen Burg zu sehen.<br><img src='bilder/Schandkreuz.jpg' alt='Schandkreuz Wels' style='width:260px;border-radius:8px;margin-top:6px;'>,
 Schedelberg,Flurnamen,47.93652,14.10349,FL – Franziszeische Landesaufnahme (1809–1818),https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1568069.0803670692%2C6095609.6192738805%2C1572430.7682935921%2C6097327.063753163&map-list=1&layers=6
 Schedelbergerstraßergut,Indizort,48.03955,14.115568,Schedlberg – der Name könnte auf eine ehemalige Richtstätte hinweisen (vgl. Schädelstraße in Wels),https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=87644
@@ -277,7 +277,7 @@ Schedlberger,Indizort,48.3352478,14.1947899,"Ort mit topographischen oder topony
 Schedlbergergut,Indizort,48.39898326,13.75857894,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlbergerhaus,Indizort,48.03475408,14.20859226,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlbergerhaus,Indizort,48.40465,14.296142,Wildberg 15,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=62641
-Schedlbergerhäusel,Indizort,48.31001763,14.25793031,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Schedlbergerhäusel,Indizort,48.31001763,14.25793031,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlbergerhäusl,Indizort,48.3993731,13.7534237,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlbergersölden,Indizort,48.06229,14.13871,Schedlbergersölden zu Grub,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=88811
 Schedlbergmühle,Indizort,48.31364615,14.60828537,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
@@ -295,7 +295,7 @@ Schedlhaus,Indizort,47.96945992,14.26158464,"Ort mit topographischen oder topony
 Schedlhaus,Indizort,48.18775425,14.43577687,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlhaus,Indizort,48.19979243,14.45388879,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlhaus,Indizort,48.55476375,14.35583338,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
-Schedlhäusl,Indizort,48.5426989,14.3827744,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Schedlhäusl,Indizort,48.5426989,14.3827744,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlhof,Indizort,47.9949543,14.29184689,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlhof,Indizort,48.0111933,14.2978634,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlhof,Indizort,48.04280102,13.90692649,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
@@ -303,7 +303,7 @@ Schedlhof,Indizort,48.2988315,14.6806062,"Ort mit topographischen oder toponymis
 Schedlhub,Indizort,48.04968231,13.1477393,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlleiten,Indizort,47.9743223,14.3034325,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlleitnerhäusl,Indizort,48.02959951,14.33518177,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
-Schedlmayergut,Indizort,48.3113795,14.6613019,"„Schedl/Schädel“-Toponyme verweisen meist auf Richtstätten oder henkerliche Orte, an denen menschliche Überreste sichtbar waren.",
+Schedlmayergut,Indizort,48.3113795,14.6613019,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlmayerhäusl,Indizort,48.3253745,14.39718067,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlmayrgut,Indizort,48.32466512,14.39824774,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schedlsölden,Galgenhaus,47.94802526,14.1230675,,
@@ -375,3 +375,67 @@ Wolfenkreuz,Flurnamen,48.32396,14.2901,FL,https://maps.arcanum.com/de/map/second
 Wolfersberg,Flurnamen,48.11546,13.455709,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1492588.239981773%2C6123225.822168858%2C1501311.615834819%2C6126660.711127424&map-list=1&layers=163%2C165
 Wölflkreuzsäule,Kleindenkmäler,48.17293,14.01892,"Errichtung unbekannt, nach Beschädigung durch LKW an den Straßenrand versetzt",
 Würglau,Flurnamen,48.11878,13.448556,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1492588.239981773%2C6123225.822168858%2C1501311.615834819%2C6126660.711127424&map-list=1&layers=163%2C165
+Kronberg,Indizort,47.900483,13.487536,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1499033.4037206925%2C6088570.598992148%2C1507916.8196017102%2C6091195.733182317&map-list=1&layers=163%2C165
+Kronberg,Indizort,48.038747,13.627173,am Raberg / Gronberg / Kronberg JL,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1515454.8228764203%2C6112818.483392886%2C1519896.5308169294%2C6114131.05048797&map-list=1&layers=163%2C165
+Kronstein,Indizort,47.907491,14.455918,900m südlich des Hochgerichtsberg,
+Kronsteiner,Indizort,47.878619,14.552277,Kranstein JL,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1618513.3239363043%2C6085738.3515988765%2C1622955.0318768134%2C6087050.918693961&map-list=1&layers=163%2C165
+Kranapichl / Hacklberg,Indizort,47.911560,13.948296,vielleicht ein Hinweis auf das Hochgericht Scharnstein JL,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1549256.6122486896%2C6090250.325137052%2C1558140.0281297073%2C6092875.45932722&map-list=1&layers=163%2C165
+Ramesberger,Indizort,48.364094,14.412216,500m westlich der Richtstätte Gugalea (Ram = Rabe) JL,https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1603077.2014747118%2C6166874.24766082%2C1607518.9094152208%2C6168186.8147559045&map-list=1&layers=here-aerial%2C163%2C165
+Raab,Indizort,48.344017,14.712572,neben der Richtstätte Prandegg-Zellhof FK,https://maps.arcanum.com/de/map/cadastral/?bbox=1635722.775928131%2C6163348.977954933%2C1640164.4838686401%2C6164661.545050018&map-list=1&layers=3%2C4
+am Rabensteig,Indizort,48.510731,14.403578,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-19century-secondsurvey/?bbox=1598844.3664700463%2C6191003.926368344%2C1607727.782351064%2C6193629.060558512&map-list=1&layers=158%2C164
+am Raberg,Indizort,48.041829,13.629163,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1513155.9767248235%2C6112146.287833625%2C1522039.3926058412%2C6114771.422023794&map-list=1&layers=163%2C165
+Gut am Rabenstein,Indizort,48.486925,14.717448,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1636972.1195724148%2C6187491.309218608%2C1641413.8275129239%2C6188803.876313692&map-list=1&layers=163%2C165
+Haus im Ramberg,Indizort,48.270988,13.857066,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1538698.9491734027%2C6150329.13788756%2C1547582.3650544204%2C6152954.272077728&map-list=1&layers=163%2C165
+Häusl am Rabenstein,Indizort,48.127420,13.994712,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Häusl nebst dem Cramberg,Indizort,48.263513,14.494231,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kranaweter,Indizort,47.990629,14.298946,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kranberg,Indizort,48.161745,14.129142,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Krenhanslsölden,Indizort,48.203656,13.257920,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Krobauer,Indizort,48.600726,13.846171,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kronberg,Indizort,48.263469,14.496821,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kronberg,Indizort,48.356837,13.507698,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kronberg,Indizort,47.932939,13.725045,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kronberger,Indizort,48.227746,14.761443,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kroneder,Indizort,48.409060,14.812019,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Kronkogler,Indizort,47.911455,14.621073,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Raaberg,Indizort,47.993236,13.338588,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Raabner,Indizort,47.989922,14.183612,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbauer,Indizort,48.080594,14.101716,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbauergut,Indizort,48.115403,14.402111,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.478322,14.713884,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.125429,13.996512,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.114357,13.776822,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.229155,13.588584,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.218337,13.507382,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.200315,14.452666,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenberg,Indizort,48.466945,14.718162,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbergergut,Indizort,48.193977,13.553208,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbergergut,Indizort,48.143030,13.573424,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbergerhofstatt,Indizort,48.471596,14.296056,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbergerhäusl,Indizort,48.229161,13.503263,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenbergholz,Indizort,48.355219,13.445438,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabeneck,Indizort,48.245757,13.770512,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenfurt,Indizort,48.279102,13.449422,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabengut,Indizort,48.183478,14.434985,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabengütl,Indizort,48.227303,13.524535,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenmoosmühle,Indizort,47.990815,13.339238,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenstein,Indizort,47.779074,14.000992,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenstein,Indizort,48.374834,13.901476,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinergut,Indizort,48.057427,13.790717,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinergut,Indizort,48.011882,13.753217,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinergütl,Indizort,48.064040,13.773750,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinergütl,Indizort,48.128300,13.996646,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinerhäusel,Indizort,48.209020,14.256139,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinerhäusel,Indizort,48.197752,14.221418,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabensteinermühle,Indizort,47.963006,13.744294,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabenwinkl,Indizort,48.051512,14.042704,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabersberg,Indizort,47.928738,13.847120,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabmergut,Indizort,48.334188,13.976248,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rabner,Indizort,48.388595,13.748614,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Ram- oder Landrichterhof,Indizort,48.664338,14.999915,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Ramberger,Indizort,48.270029,13.858861,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rambergergut,Indizort,48.202430,13.450055,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Ramersberg,Indizort,48.440697,13.986155,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Ramesberg,Indizort,47.936272,14.363192,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Ramesedt,Indizort,48.285840,13.857809,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
+Rametsberg,Indizort,48.050430,13.652327,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
