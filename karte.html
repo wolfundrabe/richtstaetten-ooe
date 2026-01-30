@@ -35,6 +35,8 @@
     const iconBlue  = new L.Icon({iconUrl:'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',  shadowUrl, iconSize:[25,41], iconAnchor:[12,41], popupAnchor:[1,-34], shadowSize:[41,41]});
     const iconGreen = new L.Icon({iconUrl:'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png', shadowUrl, iconSize:[25,41], iconAnchor:[12,41], popupAnchor:[1,-34], shadowSize:[41,41]});
     const iconBlack = new L.Icon({iconUrl:'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-black.png', shadowUrl, iconSize:[25,41], iconAnchor:[12,41], popupAnchor:[1,-34], shadowSize:[41,41]});
+    const iconGrey = new L.Icon({iconUrl:'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-grey.png', shadowUrl, iconSize:[25,41], iconAnchor:[12,41], popupAnchor:[1,-34], shadowSize:[41,41]});
+
 
     function iconFor(kat){
       switch(kat){
@@ -44,6 +46,7 @@
         case 'Kleindenkmäler': return iconBlue;
         case 'Flurnamen': return iconGreen;
         case 'Pranger': return iconBlack;
+	case 'Indizort': return iconGrey;
         default: return iconBlack;
       }
     }
@@ -56,6 +59,8 @@
       'Kleindenkmäler': L.markerClusterGroup(),
       'Flurnamen': L.markerClusterGroup(),
       'Pranger': L.markerClusterGroup()
+      'Indizort': L.markerClusterGroup()
+
     };
     Object.values(clusters).forEach(c => c.addTo(map));
     L.control.layers(null, clusters, {collapsed:false}).addTo(map);
@@ -104,7 +109,8 @@ if (allBounds.isValid()) {
         <div class="item"><span class="swatch gold"></span> Galgenhäuser / Abdecker</div>
         <div class="item"><span class="swatch blue"></span> Kleindenkmäler</div>
         <div class="item"><span class="swatch green"></span> Flurnamen</div>
-        <div class="item"><span class="swatch black"></span> Pranger</div>`;
+        <div class="item"><span class="swatch green"></span> Pranger</div>
+        <div class="item"><span class="swatch black"></span> Indizort</div>`;
       return div;
     };
     legend.addTo(map);
@@ -112,3 +118,4 @@ if (allBounds.isValid()) {
   <footer>© Richtstätten Oberösterreichs</footer>
 </body>
 </html>
+
