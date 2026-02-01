@@ -529,7 +529,7 @@ Hinrichtungsstätte auf der Ochsenwoad / Kröpflsberg,Richtstätten,48.474785,14
 Gerichtslinden Waxenberg,Flurnamen,48.47695895,14.1906354,"wahrscheinlich um das Jahr 1650 gepflanzt, als das Land- und Blutgericht Waxenberg in d das Schloss verlegt wurde",https://www.ooegeschichte.at/forschung/kleindenkmal/265199
 Rabenberg,Indizort,48.478322,14.713884,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Schörgenhub,Indizort,48.4786311,14.02316215,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
-Pranger Hofkirchen,Pranger,48.48288,13.8106,um 1680 errichtet,https://de.m.wikipedia.org/wiki/Datei:Pranger_Hofkirchen_I.jpg
+Pranger Hofkirchen,Pranger,48.48288,13.8106,Auf dem Pranger sind die Jahreszahlen 1535 und 1735 zu lesen.,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/hofkirchen-pranger
 Wasenmeister Münzkirchen,Abdecker,48.483471,13.57521,Wasenmeisterhaus vorn Thanraderholz,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=49369
 Gut am Rabenstein,Indizort,48.486925,14.717448,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1636972.1195724148%2C6187491.309218608%2C1641413.8275129239%2C6188803.876313692&map-list=1&layers=163%2C165
 Galgen,Richtstätten,48.4877,13.78822,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1533231.9882192889%2C6187062.103172189%2C1537593.6761458118%2C6188779.547651472&map-list=1&layers=163%2C165
@@ -603,3 +603,37 @@ Wasenmeister,Abdecker,48.93733,15.091013,,
 Galgenfeld,Flurnamen,48.93929,15.06648,,orte/litschau.html
 Galgenkreuz,Kleindenkmäler,48.94123,15.06792,ein einfaches Steinkreuz aus Granit,orte/litschau.html
 Pranger Litschau,Pranger,48.94422,15.0458,"gut erhaltener Pranger mit Steinkugel, 1688 Mit der Steinkugel (Bagstein) hat es eine besondere Bewandtnis. Der Fachausdruck „Bagstein“ kommt vom mittelhochdeutschen Wort „bagen“ und hat die Bedeutung „zanken, streiten“. Das Herumtragen des Bagsteines war eine typische Frauenstrafe für zanksüchtige Frauen.",orte/litschau.html
+Pranger Rohrbach,Pranger,48.57224,13.990944,zum ersten Mal im Jahre 1637 erwähnt. Heute steht vor dem Rathaus ein Springbrunnen in Form eines Prangers,https://anno.onb.ac.at/cgi-content/anno?aid=mvn&datum=19220211&query=%22Pranger+ober%c3%b6sterreich%22~20&ref=anno-search&seite=5
+Pranger Lembach,Pranger,48.4952,13.89497,an der Nordseite die Initialen des Kaisers Matthias und die Jahreszahl 1612 eingemeißelt.,https://www.meinbezirk.at/rohrbach/c-lokales/eine-foltermethode-die-auch-im-bezirk-rohrbach-angewandt-wurde_a7105657#gallery=null
+Pranger Putzleinsdorf,Pranger,48.516621,13.8733,1580 erbaut,https://www.meinbezirk.at/rohrbach/c-lokales/eine-foltermethode-die-auch-im-bezirk-rohrbach-angewandt-wurde_a7105657#gallery=null
+Pranger Linz 1,Pranger,48.30575,14.2865,bis 1716,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/linz-pranger
+Pranger Neufelden,Pranger,,,erwähnt 1502,
+Pranger Linz 2,Pranger,48.304179,14.2879,ab 1716,https://de.wikipedia.org/wiki/Taubenmarkt_(Linz)
+Pranger Königswiesen,Pranger,,,Nachweislich aus der Zeit vor 1635.,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/konigswiesen-pranger
+Pranger Tragwein,Pranger,,,Pranger aus der 2. Hälfte des 16. Jahrhunderts,https://www.sagen.info/forum/media/marktplatz-tragwein.53370/
+Pranger Pabneukirchen,Pranger,48.33627,14.84785,"undatiert, vor dem Haus Riedersdorf 5",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/riedersdorf-pranger
+Pranger Naarn / Au an der Donau,Pranger,,,Schandsäule 1625,https://www.sagen.info/forum/media/pranger-in-naarn-im-machlande.21835/
+Pranger Weitersfelden,Pranger,Ortsplatz,,"1648 errichtet, jetzt Sockel für das sogenannte ""Felsenkreuz""",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/weitersfelden-pranger
+Pranger Bad Kreuzen,Pranger,,,der ehemalige Pranger (1636) wurde auf die Brunnensäule aufgesetzt.,http://rat.imareal.sbg.ac.at/streitt/pranger/bad-kreuzen-pranger
+Pranger Schärding,Pranger,,,Nischenpranger am Wassertor,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/scharding-pranger
+Pranger Offenhausen,Pranger,48.1566,13.83662,am Marktplatz,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/offenhausen-pranger
+Pranger Reichenau im Mühlkreis,Pranger,,,"Prangerpfeiler aus Granitstein, seit 1889 am Pfarrhofvorplatz situiert.",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/reichenau-pranger
+Pranger Schenkenfelden,Pranger,,,"Granitpfeiler mit achtkantigem Pyramidenaufsatz und Kugekbekrönung. Inschrift für Marktrichter Thomas Genspauer, 1662",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/schenkenfelden-pranger
+Pranger Münzbach,Pranger,,,1651 in der Topographia Windhagiana des Clemens Beutler neben dem Marktbrunnen verzeichnet.,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/munzbach-pranger
+Pranger Leonfelden,Pranger,,,nur mehr Zeichnung / Bild erhalten,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/leonfelden-pranger
+Pranger Unterweißenbach,Pranger,,,Prangerpfeiler mit einfacher Gliederung,http://rat.imareal.sbg.ac.at/streitt/denkmalverzeichnis/unterweissenbach-pranger
+Pranger Struden,Pranger,,,"Quadratischer, rautenverzierter Pfeiler mit obeliskartigem Aufsatz mit Steinkugel, in Sekundäraufstellung bei Burg Werfenstein",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/struden-pranger
+Pranger Wartberg ob der Aist,Pranger,,,Vor der Friedhofstür aufgestellt.,http://rat.imareal.sbg.ac.at/streitt/pranger/wartberg-o-d-aist-pranger
+Pranger Gmunden,Pranger,,,auf dem Stich von Merian zu erkennen (3),https://upload.wikimedia.org/wikipedia/commons/a/a8/Gmunden_Traunsee-neu.jpg
+Pranger Grein,Pranger,Stadtplatz,,"stattlicher ""Auftritt-Pranger"", nur mehr auf Bildern ersichtlich",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/grein-pranger
+Pranger Freistadt,Pranger,,,nach der knappen schriftlichen Vorbeschreibung des Linzer Steinmetzmeisters Leopold Raverte vorzustellen,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/freistadt-pranger/zeichnung-vom-pranger-zu-freistadt-oo-landesmuseum
+Pranger Gutau,Pranger,,,"Pranger des 17. Jahrhunderts, 1964 wieder aufgestellt und Teile ergänzt",http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/gutau-pranger
+Pranger Aschach,Pranger,,,nur mehr Zeichnung / Bild erhalten,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/aschach-pranger
+Pranger Steyr,Pranger,,,auf dem Stich von Merian zu erkennen,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/steyr-pranger
+Pranger Lambach,Pranger,,,,http://rat.imareal.sbg.ac.at/streitt/oo-landesmuseum/lambach-pranger
+Pranger Klam,Pranger,,,"Im Jahr 1663 wurde der alte, hözernen Pranger in Steinbauweise erneuert.",http://rat.imareal.sbg.ac.at/streitt/pranger/klam-pranger
+Pranger Waizenkirchen,Pranger,,,,
+Pranger Sarleinsbach,Pranger,,,,
+Pranger Haslach,Pranger,,,,
+Pranger Marbach,Pranger,,,,
+Pranger Wels,Pranger,48.1564,14.02447,auf dem Stahlstich von Höfer / Willmann aus dem Jahre 1851 zu sehen,
