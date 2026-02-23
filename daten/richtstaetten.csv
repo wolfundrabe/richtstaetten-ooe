@@ -361,7 +361,7 @@ Schwerdtmühle,Flurnamen,48.268452,14.694436,"Rechts-/Symbolbezug zum Hochgerich
 Hochgericht Münzbach,Richtstätten,48.26935,14.70229,"Herrschaft Windhaag, Galgenbüchel, JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1636350.1080168313%2C6151064.089774319%2C1638530.9519800926%2C6151922.81201396&map-list=1&layers=here-aerial%2C163%2C165
 Ramberger,Indizort,48.270029,13.858861,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",
 Gericht Thürnau,Richtstätten,48.27037,14.166343,"Richtstätte LG Hartheim oder Donautal ""Hangerholz"", JL",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1575337.3197745667%2C6151041.570472808%2C1579699.0077010896%2C6152759.014952091&map-list=1&layers=here-aerial%2C163%2C165
-Galgenberg,Flurnamen,48.27087,14.94194,Quelle?,
+Galgenberg Waldhausen,Flurnamen,48.27087,14.94194,Doris Basemap,https://wo.doris.at/weboffice/synserver?project=weboffice&client=core&user=guest&view=hh
 Galgen Waldhausen,Richtstätten,48.2709,14.9501,JL – Josephinische Landesaufnahme (1775–1777),https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1662068.2409470766%2C6151370.174849183%2C1666429.9288735995%2C6153087.619328466&map-list=1&layers=163%2C165
 Haus im Ramberg,Indizort,48.270988,13.857066,"Ort mit topographischen oder toponymischen Hinweisen auf eine Richtstätte im näheren Umfeld, jedoch ohne urkundlichen Nachweis.",https://maps.arcanum.com/de/map/europe-18century-firstsurvey/?bbox=1538698.9491734027%2C6150329.13788756%2C1547582.3650544204%2C6152954.272077728&map-list=1&layers=163%2C165
 Abdecker Schwertberg,Abdecker,48.27315,14.58488,Wasenmeisterhaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=69675
@@ -643,3 +643,11 @@ Rabenstein,Indizort,47.94763,14.36317,"Ort mit topographischen oder toponymische
 Pranger Schwertberg (abgegangen),Pranger,48.27414,14.582,"Der Pranger wurde Ende des 18. Jh. abgetragen, ehemaliger Standort unbekannt",https://www.ooegeschichte.at/media/migrated/bibliografiedb/wg_april2010_32_mayboeck-marktgericht_01.pdf
 Kogler-Bildstock,Kleindenkmäler,47.84613,13.28548,"Hl. Leonhard: Seine Fürsprache soll Wunder bewirkt haben, etwa die Befreiung von Gefangenen.",https://mondsee.salzkammergut.at/oesterreich-tour/detail/430006306/orte-des-glaubens-vom-oelgraben-zur-ehemaligen-hinrichtungsstaette.html
 Galgenfeld,Richtstätten,48.23778,13.825807,unter dem katholischen Landeshauptmann Löbl kam es hier zur Hinrichtung des Bauernführers Mathias Röll,https://www.ooegeschichte.at/ausstellungen/die-joerger-von-tollet-und-ihre-zeit/bluetezeit-der-reformation/gegenspieler-rudolf-ii
+Hängsberg,Flurnamen,48.53377,15.218932,Openstreetmap,
+Gallenberg Königsbach,Flurnamen,48.52685,15.23728,"FL, FK",https://maps.arcanum.com/de/map/secondsurvey-austria/?bbox=1691255.1769378732%2C6193669.267649157%2C1700138.592818891%2C6196294.401839325&map-list=1&layers=6
+Schranne Wallern,Flurnamen,48.230224,13.94595,"Schranne: Gerichtsplatz, auch Thaiding genannt",
+Schranne Kobernaußerwald,Flurnamen,48.06863,13.38481,ein berggipfel im Kobernaußerwald,https://de.wikipedia.org/wiki/Schranne_(Kobernau%C3%9Ferwald)
+Schrannentafern,Flurnamen,48.298571,14.051411,Schrannenwirtshaus,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=26738
+Schrannengütl,Flurnamen,48.2523,13.77722,,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=15746
+Schrannentafern,Flurnamen,48.143333,13.73667,,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=13478
+Schrannenhaus,Flurnamen,48.15502,13.48479,,https://doris.ooe.gv.at/themen/geschichte/hofnamenreport.aspx?hn_nr=45432
