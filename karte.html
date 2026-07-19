@@ -40,10 +40,10 @@
 
     function iconFor(kat){
       switch(kat){
-        case 'Richtstätten': return iconRed;
+        case 'Richtstatt': return iconRed;
         case 'Galgenhaus':
         case 'Abdecker': return iconGold;
-        case 'Kleindenkmäler': return iconBlue;
+        case 'Kleindenkmal': return iconBlue;
         case 'Flurnamen': return iconGreen;
         case 'Pranger': return iconBlack;
 	case 'Indizort': return iconGrey;
@@ -53,10 +53,10 @@
 
     // Cluster je Kategorie (Filterbar)
     const clusters = {
-      'Richtstätten': L.markerClusterGroup(),
+      'Richtstatt': L.markerClusterGroup(),
       'Galgenhaus': L.markerClusterGroup(),
       'Abdecker': L.markerClusterGroup(),
-      'Kleindenkmäler': L.markerClusterGroup(),
+      'Kleindenkmal': L.markerClusterGroup(),
       'Flurnamen': L.markerClusterGroup(),
       'Pranger': L.markerClusterGroup(),
       'Indizort': L.markerClusterGroup()
@@ -105,9 +105,9 @@ if (allBounds.isValid()) {
       const div = L.DomUtil.create('div','legend');
       div.innerHTML = `
         <div class="title">Kategorien</div>
-        <div class="item"><span class="swatch red"></span> Richtstätten</div>
+        <div class="item"><span class="swatch red"></span> Richtstatt</div>
         <div class="item"><span class="swatch gold"></span> Galgenhaus / Abdecker</div>
-        <div class="item"><span class="swatch blue"></span> Kleindenkmäler</div>
+        <div class="item"><span class="swatch blue"></span> Kleindenkmal</div>
         <div class="item"><span class="swatch green"></span> Flurnamen</div>
         <div class="item"><span class="swatch black"></span> Pranger</div>
         <div class="item"><span class="swatch grey"></span> Indizort</div>`;
